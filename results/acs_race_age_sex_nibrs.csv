@@ -1,0 +1,409 @@
+race,ethnicity,age_group_5yr,sex,n,weighted
+White,Not Hispanic/Latino,0-4,Female,167680,16835112
+White,Not Hispanic/Latino,0-4,Male,175793,17723556
+White,Not Hispanic/Latino,5-9,Female,187899,18668282
+White,Not Hispanic/Latino,5-9,Male,198252,19658441
+White,Not Hispanic/Latino,10-14,Female,202559,20073101
+White,Not Hispanic/Latino,10-14,Male,214578,21214188
+White,Not Hispanic/Latino,15-19,Female,231902,21325085
+White,Not Hispanic/Latino,15-19,Male,243017,22558724
+White,Not Hispanic/Latino,20-24,Female,201186,22110314
+White,Not Hispanic/Latino,20-24,Male,215688,23442532
+White,Not Hispanic/Latino,25-29,Female,211782,22729009
+White,Not Hispanic/Latino,25-29,Male,220524,23736323
+White,Not Hispanic/Latino,30-34,Female,242874,24557240
+White,Not Hispanic/Latino,30-34,Male,250671,25247086
+White,Not Hispanic/Latino,35-39,Female,247658,24619686
+White,Not Hispanic/Latino,35-39,Male,253759,25327870
+White,Not Hispanic/Latino,40-44,Female,242987,24002644
+White,Not Hispanic/Latino,40-44,Male,249537,24727456
+White,Not Hispanic/Latino,45-49,Female,230738,22092160
+White,Not Hispanic/Latino,45-49,Male,233664,22631560
+White,Not Hispanic/Latino,50-54,Female,271156,24677478
+White,Not Hispanic/Latino,50-54,Male,267298,25226674
+White,Not Hispanic/Latino,55-59,Female,314133,26302127
+White,Not Hispanic/Latino,55-59,Male,299607,26260018
+White,Not Hispanic/Latino,60-64,Female,374256,30195300
+White,Not Hispanic/Latino,60-64,Male,349331,29253113
+White,Not Hispanic/Latino,65-69,Female,375846,27753403
+White,Not Hispanic/Latino,65-69,Male,345583,25842885
+White,Not Hispanic/Latino,70-74,Female,333789,24435506
+White,Not Hispanic/Latino,70-74,Male,301411,22115411
+White,Not Hispanic/Latino,75-79,Female,252964,18199088
+White,Not Hispanic/Latino,75-79,Male,221484,15421308
+White,Not Hispanic/Latino,80+,Female,334386,23786933
+White,Not Hispanic/Latino,80+,Male,233201,16223046
+White,Hispanic/Latino,0-4,Female,36008,5274540
+White,Hispanic/Latino,0-4,Male,37407,5500559
+White,Hispanic/Latino,5-9,Female,40085,5411407
+White,Hispanic/Latino,5-9,Male,41963,5719724
+White,Hispanic/Latino,10-14,Female,44219,5881340
+White,Hispanic/Latino,10-14,Male,46043,6197783
+White,Hispanic/Latino,15-19,Female,49834,5916886
+White,Hispanic/Latino,15-19,Male,52640,6213905
+White,Hispanic/Latino,20-24,Female,43865,5560153
+White,Hispanic/Latino,20-24,Male,46817,5708326
+White,Hispanic/Latino,25-29,Female,40876,5145327
+White,Hispanic/Latino,25-29,Male,43028,5276597
+White,Hispanic/Latino,30-34,Female,40363,5046409
+White,Hispanic/Latino,30-34,Male,41660,5299515
+White,Hispanic/Latino,35-39,Female,38040,4818529
+White,Hispanic/Latino,35-39,Male,38345,5173898
+White,Hispanic/Latino,40-44,Female,36769,4684118
+White,Hispanic/Latino,40-44,Male,36415,4902128
+White,Hispanic/Latino,45-49,Female,35803,4294933
+White,Hispanic/Latino,45-49,Male,33918,4412841
+White,Hispanic/Latino,50-54,Female,34763,3952534
+White,Hispanic/Latino,50-54,Male,32604,3994893
+White,Hispanic/Latino,55-59,Female,32976,3506935
+White,Hispanic/Latino,55-59,Male,29801,3424790
+White,Hispanic/Latino,60-64,Female,29891,3031948
+White,Hispanic/Latino,60-64,Male,26680,2892943
+White,Hispanic/Latino,65-69,Female,24742,2411275
+White,Hispanic/Latino,65-69,Male,21351,2124123
+White,Hispanic/Latino,70-74,Female,19290,1845451
+White,Hispanic/Latino,70-74,Male,15806,1547946
+White,Hispanic/Latino,75-79,Female,13773,1308236
+White,Hispanic/Latino,75-79,Male,10751,989524
+White,Hispanic/Latino,80+,Female,19352,1729451
+White,Hispanic/Latino,80+,Male,11895,1059979
+Black or African American,Not Hispanic/Latino,0-4,Female,33066,5950684
+Black or African American,Not Hispanic/Latino,0-4,Male,33655,6147643
+Black or African American,Not Hispanic/Latino,5-9,Female,37554,6294747
+Black or African American,Not Hispanic/Latino,5-9,Male,38858,6512884
+Black or African American,Not Hispanic/Latino,10-14,Female,41074,6728668
+Black or African American,Not Hispanic/Latino,10-14,Male,43157,7012855
+Black or African American,Not Hispanic/Latino,15-19,Female,49912,6665810
+Black or African American,Not Hispanic/Latino,15-19,Male,52169,6966903
+Black or African American,Not Hispanic/Latino,20-24,Female,42461,6610350
+Black or African American,Not Hispanic/Latino,20-24,Male,47748,6699114
+Black or African American,Not Hispanic/Latino,25-29,Female,37146,6661256
+Black or African American,Not Hispanic/Latino,25-29,Male,42365,6550382
+Black or African American,Not Hispanic/Latino,30-34,Female,40098,7096889
+Black or African American,Not Hispanic/Latino,30-34,Male,44424,6811803
+Black or African American,Not Hispanic/Latino,35-39,Female,38602,6292314
+Black or African American,Not Hispanic/Latino,35-39,Male,40950,5885440
+Black or African American,Not Hispanic/Latino,40-44,Female,39093,6214448
+Black or African American,Not Hispanic/Latino,40-44,Male,39550,5735343
+Black or African American,Not Hispanic/Latino,45-49,Female,37446,5469098
+Black or African American,Not Hispanic/Latino,45-49,Male,36975,4876132
+Black or African American,Not Hispanic/Latino,50-54,Female,41739,5509731
+Black or African American,Not Hispanic/Latino,50-54,Male,39204,4941799
+Black or African American,Not Hispanic/Latino,55-59,Female,46275,5286960
+Black or African American,Not Hispanic/Latino,55-59,Male,41516,4576919
+Black or African American,Not Hispanic/Latino,60-64,Female,50988,5569260
+Black or African American,Not Hispanic/Latino,60-64,Male,44081,4726234
+Black or African American,Not Hispanic/Latino,65-69,Female,48449,4653078
+Black or African American,Not Hispanic/Latino,65-69,Male,38815,3695380
+Black or African American,Not Hispanic/Latino,70-74,Female,38971,3638131
+Black or African American,Not Hispanic/Latino,70-74,Male,29112,2666807
+Black or African American,Not Hispanic/Latino,75-79,Female,25471,2320628
+Black or African American,Not Hispanic/Latino,75-79,Male,17871,1567350
+Black or African American,Not Hispanic/Latino,80+,Female,32201,2837183
+Black or African American,Not Hispanic/Latino,80+,Male,17248,1491266
+Black or African American,Hispanic/Latino,0-4,Female,4751,739367
+Black or African American,Hispanic/Latino,0-4,Male,5069,813009
+Black or African American,Hispanic/Latino,5-9,Female,4819,703511
+Black or African American,Hispanic/Latino,5-9,Male,4970,721705
+Black or African American,Hispanic/Latino,10-14,Female,4695,674025
+Black or African American,Hispanic/Latino,10-14,Male,4864,693068
+Black or African American,Hispanic/Latino,15-19,Female,4622,556901
+Black or African American,Hispanic/Latino,15-19,Male,5041,610038
+Black or African American,Hispanic/Latino,20-24,Female,3829,485189
+Black or African American,Hispanic/Latino,20-24,Male,4190,510967
+Black or African American,Hispanic/Latino,25-29,Female,3383,441270
+Black or African American,Hispanic/Latino,25-29,Male,3403,432669
+Black or African American,Hispanic/Latino,30-34,Female,3488,456614
+Black or African American,Hispanic/Latino,30-34,Male,3344,435337
+Black or African American,Hispanic/Latino,35-39,Female,2847,393985
+Black or African American,Hispanic/Latino,35-39,Male,2586,347443
+Black or African American,Hispanic/Latino,40-44,Female,2577,342222
+Black or African American,Hispanic/Latino,40-44,Male,2277,304724
+Black or African American,Hispanic/Latino,45-49,Female,2137,282183
+Black or African American,Hispanic/Latino,45-49,Male,1850,249151
+Black or African American,Hispanic/Latino,50-54,Female,1903,238773
+Black or African American,Hispanic/Latino,50-54,Male,1568,203770
+Black or African American,Hispanic/Latino,55-59,Female,1674,207091
+Black or African American,Hispanic/Latino,55-59,Male,1424,178736
+Black or African American,Hispanic/Latino,60-64,Female,1427,167782
+Black or African American,Hispanic/Latino,60-64,Male,1153,140402
+Black or African American,Hispanic/Latino,65-69,Female,1163,137027
+Black or African American,Hispanic/Latino,65-69,Male,962,111363
+Black or African American,Hispanic/Latino,70-74,Female,888,98996
+Black or African American,Hispanic/Latino,70-74,Male,710,81974
+Black or African American,Hispanic/Latino,75-79,Female,603,67049
+Black or African American,Hispanic/Latino,75-79,Male,432,48046
+Black or African American,Hispanic/Latino,80+,Female,746,81269
+Black or African American,Hispanic/Latino,80+,Male,469,43647
+American Indian or Alaska Native,Not Hispanic/Latino,0-4,Female,7289,493500
+American Indian or Alaska Native,Not Hispanic/Latino,0-4,Male,7758,529235
+American Indian or Alaska Native,Not Hispanic/Latino,5-9,Female,8954,567777
+American Indian or Alaska Native,Not Hispanic/Latino,5-9,Male,9282,616862
+American Indian or Alaska Native,Not Hispanic/Latino,10-14,Female,10106,643250
+American Indian or Alaska Native,Not Hispanic/Latino,10-14,Male,10602,691103
+American Indian or Alaska Native,Not Hispanic/Latino,15-19,Female,10296,668018
+American Indian or Alaska Native,Not Hispanic/Latino,15-19,Male,11237,719804
+American Indian or Alaska Native,Not Hispanic/Latino,20-24,Female,7599,587030
+American Indian or Alaska Native,Not Hispanic/Latino,20-24,Male,8436,622379
+American Indian or Alaska Native,Not Hispanic/Latino,25-29,Female,7644,587983
+American Indian or Alaska Native,Not Hispanic/Latino,25-29,Male,8272,612173
+American Indian or Alaska Native,Not Hispanic/Latino,30-34,Female,8803,647613
+American Indian or Alaska Native,Not Hispanic/Latino,30-34,Male,9316,674247
+American Indian or Alaska Native,Not Hispanic/Latino,35-39,Female,9238,659109
+American Indian or Alaska Native,Not Hispanic/Latino,35-39,Male,9215,621663
+American Indian or Alaska Native,Not Hispanic/Latino,40-44,Female,9123,635715
+American Indian or Alaska Native,Not Hispanic/Latino,40-44,Male,9189,641570
+American Indian or Alaska Native,Not Hispanic/Latino,45-49,Female,8468,549500
+American Indian or Alaska Native,Not Hispanic/Latino,45-49,Male,8496,558457
+American Indian or Alaska Native,Not Hispanic/Latino,50-54,Female,9618,585258
+American Indian or Alaska Native,Not Hispanic/Latino,50-54,Male,9219,566920
+American Indian or Alaska Native,Not Hispanic/Latino,55-59,Female,10534,592132
+American Indian or Alaska Native,Not Hispanic/Latino,55-59,Male,9565,528897
+American Indian or Alaska Native,Not Hispanic/Latino,60-64,Female,11234,613285
+American Indian or Alaska Native,Not Hispanic/Latino,60-64,Male,10133,552466
+American Indian or Alaska Native,Not Hispanic/Latino,65-69,Female,9838,521680
+American Indian or Alaska Native,Not Hispanic/Latino,65-69,Male,8356,433165
+American Indian or Alaska Native,Not Hispanic/Latino,70-74,Female,7557,398011
+American Indian or Alaska Native,Not Hispanic/Latino,70-74,Male,6250,326371
+American Indian or Alaska Native,Not Hispanic/Latino,75-79,Female,4924,264767
+American Indian or Alaska Native,Not Hispanic/Latino,75-79,Male,4009,206247
+American Indian or Alaska Native,Not Hispanic/Latino,80+,Female,5128,267851
+American Indian or Alaska Native,Not Hispanic/Latino,80+,Male,3495,175931
+American Indian or Alaska Native,Hispanic/Latino,0-4,Female,3382,436885
+American Indian or Alaska Native,Hispanic/Latino,0-4,Male,3456,445963
+American Indian or Alaska Native,Hispanic/Latino,5-9,Female,3935,453759
+American Indian or Alaska Native,Hispanic/Latino,5-9,Male,4061,477318
+American Indian or Alaska Native,Hispanic/Latino,10-14,Female,4379,507903
+American Indian or Alaska Native,Hispanic/Latino,10-14,Male,4541,544503
+American Indian or Alaska Native,Hispanic/Latino,15-19,Female,5055,542469
+American Indian or Alaska Native,Hispanic/Latino,15-19,Male,5125,548825
+American Indian or Alaska Native,Hispanic/Latino,20-24,Female,4228,485800
+American Indian or Alaska Native,Hispanic/Latino,20-24,Male,4693,520226
+American Indian or Alaska Native,Hispanic/Latino,25-29,Female,3956,451148
+American Indian or Alaska Native,Hispanic/Latino,25-29,Male,4480,491583
+American Indian or Alaska Native,Hispanic/Latino,30-34,Female,4163,462004
+American Indian or Alaska Native,Hispanic/Latino,30-34,Male,4579,522250
+American Indian or Alaska Native,Hispanic/Latino,35-39,Female,3949,443901
+American Indian or Alaska Native,Hispanic/Latino,35-39,Male,4118,499050
+American Indian or Alaska Native,Hispanic/Latino,40-44,Female,3928,446781
+American Indian or Alaska Native,Hispanic/Latino,40-44,Male,3923,470281
+American Indian or Alaska Native,Hispanic/Latino,45-49,Female,3428,361690
+American Indian or Alaska Native,Hispanic/Latino,45-49,Male,3620,413734
+American Indian or Alaska Native,Hispanic/Latino,50-54,Female,3149,324941
+American Indian or Alaska Native,Hispanic/Latino,50-54,Male,3073,340683
+American Indian or Alaska Native,Hispanic/Latino,55-59,Female,2592,250400
+American Indian or Alaska Native,Hispanic/Latino,55-59,Male,2742,288568
+American Indian or Alaska Native,Hispanic/Latino,60-64,Female,2357,222852
+American Indian or Alaska Native,Hispanic/Latino,60-64,Male,2236,232870
+American Indian or Alaska Native,Hispanic/Latino,65-69,Female,1966,175493
+American Indian or Alaska Native,Hispanic/Latino,65-69,Male,1664,155368
+American Indian or Alaska Native,Hispanic/Latino,70-74,Female,1332,118284
+American Indian or Alaska Native,Hispanic/Latino,70-74,Male,1206,111673
+American Indian or Alaska Native,Hispanic/Latino,75-79,Female,776,71660
+American Indian or Alaska Native,Hispanic/Latino,75-79,Male,678,57455
+American Indian or Alaska Native,Hispanic/Latino,80+,Female,869,75950
+American Indian or Alaska Native,Hispanic/Latino,80+,Male,580,53450
+Asian,Not Hispanic/Latino,0-4,Female,24018,2546097
+Asian,Not Hispanic/Latino,0-4,Male,24832,2669917
+Asian,Not Hispanic/Latino,5-9,Female,27826,2769661
+Asian,Not Hispanic/Latino,5-9,Male,29386,2963818
+Asian,Not Hispanic/Latino,10-14,Female,29324,2873079
+Asian,Not Hispanic/Latino,10-14,Male,30872,3081099
+Asian,Not Hispanic/Latino,15-19,Female,34756,2924215
+Asian,Not Hispanic/Latino,15-19,Male,34370,2963328
+Asian,Not Hispanic/Latino,20-24,Female,31072,2911563
+Asian,Not Hispanic/Latino,20-24,Male,32235,3023576
+Asian,Not Hispanic/Latino,25-29,Female,32695,3409439
+Asian,Not Hispanic/Latino,25-29,Male,32348,3355662
+Asian,Not Hispanic/Latino,30-34,Female,37895,3976471
+Asian,Not Hispanic/Latino,30-34,Male,34378,3781284
+Asian,Not Hispanic/Latino,35-39,Female,38435,3985549
+Asian,Not Hispanic/Latino,35-39,Male,33869,3736428
+Asian,Not Hispanic/Latino,40-44,Female,37769,3805848
+Asian,Not Hispanic/Latino,40-44,Male,31221,3357347
+Asian,Not Hispanic/Latino,45-49,Female,35726,3370943
+Asian,Not Hispanic/Latino,45-49,Male,30016,3010572
+Asian,Not Hispanic/Latino,50-54,Female,35209,3140703
+Asian,Not Hispanic/Latino,50-54,Male,29229,2796003
+Asian,Not Hispanic/Latino,55-59,Female,31346,2731012
+Asian,Not Hispanic/Latino,55-59,Male,25917,2362674
+Asian,Not Hispanic/Latino,60-64,Female,28981,2473764
+Asian,Not Hispanic/Latino,60-64,Male,23892,2112022
+Asian,Not Hispanic/Latino,65-69,Female,25836,2260724
+Asian,Not Hispanic/Latino,65-69,Male,20789,1819617
+Asian,Not Hispanic/Latino,70-74,Female,21007,1796845
+Asian,Not Hispanic/Latino,70-74,Male,16211,1406738
+Asian,Not Hispanic/Latino,75-79,Female,13782,1259773
+Asian,Not Hispanic/Latino,75-79,Male,10814,957185
+Asian,Not Hispanic/Latino,80+,Female,17529,1550049
+Asian,Not Hispanic/Latino,80+,Male,12032,1058357
+Asian,Hispanic/Latino,0-4,Female,2134,273863
+Asian,Hispanic/Latino,0-4,Male,2182,286151
+Asian,Hispanic/Latino,5-9,Female,1909,225156
+Asian,Hispanic/Latino,5-9,Male,2096,250320
+Asian,Hispanic/Latino,10-14,Female,1878,220968
+Asian,Hispanic/Latino,10-14,Male,1984,225160
+Asian,Hispanic/Latino,15-19,Female,1798,179402
+Asian,Hispanic/Latino,15-19,Male,1810,191931
+Asian,Hispanic/Latino,20-24,Female,1340,144740
+Asian,Hispanic/Latino,20-24,Male,1391,145358
+Asian,Hispanic/Latino,25-29,Female,1136,130339
+Asian,Hispanic/Latino,25-29,Male,1127,120236
+Asian,Hispanic/Latino,30-34,Female,1075,116829
+Asian,Hispanic/Latino,30-34,Male,1036,116466
+Asian,Hispanic/Latino,35-39,Female,847,97558
+Asian,Hispanic/Latino,35-39,Male,789,97330
+Asian,Hispanic/Latino,40-44,Female,713,76814
+Asian,Hispanic/Latino,40-44,Male,668,79363
+Asian,Hispanic/Latino,45-49,Female,601,63140
+Asian,Hispanic/Latino,45-49,Male,546,63676
+Asian,Hispanic/Latino,50-54,Female,599,61214
+Asian,Hispanic/Latino,50-54,Male,461,53548
+Asian,Hispanic/Latino,55-59,Female,485,46280
+Asian,Hispanic/Latino,55-59,Male,360,37174
+Asian,Hispanic/Latino,60-64,Female,427,39602
+Asian,Hispanic/Latino,60-64,Male,363,39643
+Asian,Hispanic/Latino,65-69,Female,317,29239
+Asian,Hispanic/Latino,65-69,Male,272,24985
+Asian,Hispanic/Latino,70-74,Female,270,23713
+Asian,Hispanic/Latino,70-74,Male,209,18539
+Asian,Hispanic/Latino,75-79,Female,197,17079
+Asian,Hispanic/Latino,75-79,Male,150,10789
+Asian,Hispanic/Latino,80+,Female,203,17559
+Asian,Hispanic/Latino,80+,Male,152,15085
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,0-4,Female,870,102411
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,0-4,Male,962,119062
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,5-9,Female,989,109332
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,5-9,Male,1042,125940
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,10-14,Female,1108,127303
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,10-14,Male,1130,126503
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,15-19,Female,1148,113829
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,15-19,Male,1245,131870
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,20-24,Female,1037,114805
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,20-24,Male,1135,122394
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,25-29,Female,1011,125795
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,25-29,Male,1178,133809
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,30-34,Female,1011,134761
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,30-34,Male,1125,139504
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,35-39,Female,1008,122791
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,35-39,Male,1145,137757
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,40-44,Female,938,113243
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,40-44,Male,1002,114645
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,45-49,Female,897,98464
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,45-49,Male,822,93009
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,50-54,Female,808,86859
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,50-54,Male,824,83590
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,55-59,Female,900,84112
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,55-59,Male,813,78493
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,60-64,Female,899,85818
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,60-64,Male,835,83101
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,65-69,Female,712,61886
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,65-69,Male,642,59874
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,70-74,Female,594,51592
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,70-74,Male,465,44089
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,75-79,Female,376,33582
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,75-79,Male,289,30795
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,80+,Female,384,35908
+Native Hawaiian or Other Pacific Islander,Not Hispanic/Latino,80+,Male,243,22245
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,0-4,Female,233,32002
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,0-4,Male,267,32817
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,5-9,Female,242,30700
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,5-9,Male,287,35707
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,10-14,Female,247,30006
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,10-14,Male,237,29538
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,15-19,Female,268,27581
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,15-19,Male,279,32018
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,20-24,Female,214,23019
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,20-24,Male,260,31345
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,25-29,Female,215,28010
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,25-29,Male,216,25821
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,30-34,Female,210,25103
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,30-34,Male,210,25463
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,35-39,Female,155,20264
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,35-39,Male,193,24300
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,40-44,Female,139,16452
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,40-44,Male,155,18236
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,45-49,Female,123,13482
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,45-49,Male,102,14087
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,50-54,Female,124,13192
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,50-54,Male,113,14059
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,55-59,Female,96,9410
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,55-59,Male,121,13407
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,60-64,Female,82,9483
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,60-64,Male,78,7482
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,65-69,Female,67,5674
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,65-69,Male,49,4329
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,70-74,Female,50,3699
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,70-74,Male,38,3855
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,75-79,Female,32,2707
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,75-79,Male,29,3078
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,80+,Female,51,4132
+Native Hawaiian or Other Pacific Islander,Hispanic/Latino,80+,Male,30,2460
+NA,Not Hispanic/Latino,0-4,Female,2509,311718
+NA,Not Hispanic/Latino,0-4,Male,2756,342095
+NA,Not Hispanic/Latino,5-9,Female,2627,317429
+NA,Not Hispanic/Latino,5-9,Male,2801,338433
+NA,Not Hispanic/Latino,10-14,Female,2697,319350
+NA,Not Hispanic/Latino,10-14,Male,2865,328403
+NA,Not Hispanic/Latino,15-19,Female,2566,275363
+NA,Not Hispanic/Latino,15-19,Male,2622,283928
+NA,Not Hispanic/Latino,20-24,Female,1868,225694
+NA,Not Hispanic/Latino,20-24,Male,2027,244600
+NA,Not Hispanic/Latino,25-29,Female,1807,225428
+NA,Not Hispanic/Latino,25-29,Male,1958,243401
+NA,Not Hispanic/Latino,30-34,Female,2119,257449
+NA,Not Hispanic/Latino,30-34,Male,2285,274393
+NA,Not Hispanic/Latino,35-39,Female,2353,271273
+NA,Not Hispanic/Latino,35-39,Male,2481,280354
+NA,Not Hispanic/Latino,40-44,Female,2330,272747
+NA,Not Hispanic/Latino,40-44,Male,2451,285949
+NA,Not Hispanic/Latino,45-49,Female,2055,227594
+NA,Not Hispanic/Latino,45-49,Male,2158,246046
+NA,Not Hispanic/Latino,50-54,Female,2003,211434
+NA,Not Hispanic/Latino,50-54,Male,2049,216635
+NA,Not Hispanic/Latino,55-59,Female,2008,197413
+NA,Not Hispanic/Latino,55-59,Male,1955,192657
+NA,Not Hispanic/Latino,60-64,Female,2033,184316
+NA,Not Hispanic/Latino,60-64,Male,2108,201338
+NA,Not Hispanic/Latino,65-69,Female,1743,147290
+NA,Not Hispanic/Latino,65-69,Male,1677,146275
+NA,Not Hispanic/Latino,70-74,Female,1174,98215
+NA,Not Hispanic/Latino,70-74,Male,1181,97873
+NA,Not Hispanic/Latino,75-79,Female,690,59552
+NA,Not Hispanic/Latino,75-79,Male,737,62725
+NA,Not Hispanic/Latino,80+,Female,753,68674
+NA,Not Hispanic/Latino,80+,Male,579,50171
+NA,Hispanic/Latino,0-4,Female,18158,2904193
+NA,Hispanic/Latino,0-4,Male,18492,2960023
+NA,Hispanic/Latino,5-9,Female,21475,3148058
+NA,Hispanic/Latino,5-9,Male,22335,3271142
+NA,Hispanic/Latino,10-14,Female,25240,3645135
+NA,Hispanic/Latino,10-14,Male,26456,3827601
+NA,Hispanic/Latino,15-19,Female,28410,3644202
+NA,Hispanic/Latino,15-19,Male,30619,3892799
+NA,Hispanic/Latino,20-24,Female,27418,3590624
+NA,Hispanic/Latino,20-24,Male,30761,3897306
+NA,Hispanic/Latino,25-29,Female,27545,3512722
+NA,Hispanic/Latino,25-29,Male,30370,3770754
+NA,Hispanic/Latino,30-34,Female,27323,3474246
+NA,Hispanic/Latino,30-34,Male,29649,3872976
+NA,Hispanic/Latino,35-39,Female,25178,3279484
+NA,Hispanic/Latino,35-39,Male,27671,3813459
+NA,Hispanic/Latino,40-44,Female,25291,3295228
+NA,Hispanic/Latino,40-44,Male,26276,3653128
+NA,Hispanic/Latino,45-49,Female,24357,3056203
+NA,Hispanic/Latino,45-49,Male,23828,3196545
+NA,Hispanic/Latino,50-54,Female,22591,2657660
+NA,Hispanic/Latino,50-54,Male,22077,2852499
+NA,Hispanic/Latino,55-59,Female,20066,2269500
+NA,Hispanic/Latino,55-59,Male,19475,2357404
+NA,Hispanic/Latino,60-64,Female,17412,1905282
+NA,Hispanic/Latino,60-64,Male,16138,1866639
+NA,Hispanic/Latino,65-69,Female,13712,1453121
+NA,Hispanic/Latino,65-69,Male,12251,1319154
+NA,Hispanic/Latino,70-74,Female,9898,1027192
+NA,Hispanic/Latino,70-74,Male,8365,878261
+NA,Hispanic/Latino,75-79,Female,6529,670156
+NA,Hispanic/Latino,75-79,Male,5051,502150
+NA,Hispanic/Latino,80+,Female,8584,821429
+NA,Hispanic/Latino,80+,Male,5231,511917

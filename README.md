@@ -1,7 +1,10 @@
 ### National Incident Based Reporting System (NIBRS)
 > Homicides: incident, victim, and offender level files
 
-https://www.icpsr.umich.edu/web/ICPSR/studies/39270/versions/V2/datadocumentation?tenant=icpsr&archive=icpsr
+- [2021: ICPSR_38807](https://www.icpsr.umich.edu/web/NACJD/studies/38807)
+- [2022: ICPSR_38925](https://www.icpsr.umich.edu/web/NACJD/studies/38925)
+- [2023: ICPSR_39270](https://www.icpsr.umich.edu/web/NACJD/studies/39270)
+- [2024: ICPSR_39868](https://www.icpsr.umich.edu/web/ICPSR/studies/39868/versions/V1)
 
 
 ### ACS population estimates
