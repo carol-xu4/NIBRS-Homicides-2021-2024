@@ -5,7 +5,7 @@ pacman::p_load(tidyverse, ggthemes, readxl, data.table, gdata, ipumsr)
 # Set working directory 
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/NIBRS Homicides 2021-2024")
 
-# read in ACS 2023 
+# read in ACS 2021-2024
 ddi_acs = read_ipums_ddi("data/input/usa_00030.xml")
 acs = read_ipums_micro(ddi_acs)
 
@@ -25,20 +25,7 @@ acs = acs %>%
       TRUE ~ paste0(floor(age / 5) * 5, "-", floor(age / 5) * 5 + 4)
     ) %>% factor(levels = age_levels_5yr))
 
-acs_table = acs %>%
-  group_by(race, hispan, age_group_5yr, sex) %>%
-  summarise(
-    n = n(),
-    weighted = sum(perwt, na.rm = TRUE),
-    .groups = "drop") %>%
-  arrange(race, hispan, age_group_5yr, sex)
-
-print(acs_table, n = Inf)
-print(acs_table, n = 100)
-
-write_csv(acs_table, "results/acs_race_age_sex.csv")
-
-# recode ACS demographics to match NIBRS coding
+# recode ACS demographics to match NIBRS coding, race and ethnicity combined
     # Hierarchical single-race assignment (NCHS bridged-race convention) to
     # resolve multiracial ACS respondents into NIBRS's single-race field.
     # Priority order: Black > AIAN > Asian > NHPI > White.
@@ -49,36 +36,42 @@ acs = acs %>%
       sex == 2 ~ "Female",
       TRUE ~ NA_character_
     ),
+    race_nibrs = case_when(
+      racblk == 2 ~ "Black or African American",
+      racamind == 2 ~ "American Indian or Alaska Native",
+      racasian == 2 ~ "Asian",
+      racpacis == 2 ~ "Native Hawaiian or Other Pacific Islander",
+      racwht == 2 ~ "White",
+      TRUE ~ NA_character_
+    ),
     ethnicity_nibrs = case_when(
       hispan == 0 ~ "Not Hispanic/Latino",
       hispan %in% 1:4 ~ "Hispanic/Latino",
       TRUE ~ NA_character_
-    ) %>% factor(levels = c("Not Hispanic/Latino", "Hispanic/Latino")),
-    race_nibrs = case_when(
-  racblk == 2 ~ "Black or African American",
-  racamind == 2 ~ "American Indian or Alaska Native",
-  racasian == 2 ~ "Asian",
-  racpacis == 2 ~ "Native Hawaiian or Other Pacific Islander",
-  racwht == 2 ~ "White",
-  TRUE ~ NA_character_
-) %>% factor(levels = c(
-  "White",
-  "Black or African American",
-  "American Indian or Alaska Native",
-  "Asian",
-  "Native Hawaiian or Other Pacific Islander")))
+    ),
+    race_ethnicity_nibrs = paste0(race_nibrs, ", ", ethnicity_nibrs) %>%
+  factor(levels = c(
+    "White, Not Hispanic/Latino", "White, Hispanic/Latino",
+    "Black or African American, Not Hispanic/Latino", "Black or African American, Hispanic/Latino",
+    "American Indian or Alaska Native, Not Hispanic/Latino", "American Indian or Alaska Native, Hispanic/Latino",
+    "Asian, Not Hispanic/Latino", "Asian, Hispanic/Latino",
+    "Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino", "Native Hawaiian or Other Pacific Islander, Hispanic/Latino",
+    "NA, Not Hispanic/Latino", "NA, Hispanic/Latino"
+  )))
 
 ## Group: n and weighted population, NIBRS-comparable categories -------------
 acs_table_nibrs = acs %>%
-  group_by(race_nibrs, ethnicity_nibrs, age_group_5yr, sex_nibrs) %>%
+  group_by(race_ethnicity_nibrs, age_group_5yr, sex_nibrs) %>%
   summarise(
     n = n(),
     weighted = sum(perwt, na.rm = TRUE),
     .groups = "drop"
   ) %>%
-  rename(race = race_nibrs, ethnicity = ethnicity_nibrs, sex = sex_nibrs) %>%
-  arrange(race, ethnicity, age_group_5yr, sex)
+  rename(race_ethnicity = race_ethnicity_nibrs, sex = sex_nibrs) %>%
+  arrange(race_ethnicity, age_group_5yr, sex)
 
 print(acs_table_nibrs, n = Inf)
 
-write_csv(acs_table_nibrs, "results/acs_race_age_sex_nibrs.csv")
+write_csv(acs_table_nibrs, "results/acs_race_ethnicity_age_sex_nibrs.csv")
+
+saveRDS(acs, "data/output/acs.rds")

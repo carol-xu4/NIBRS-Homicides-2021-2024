@@ -1,0 +1,1239 @@
+year,race_ethnicity,age_group_5yr,n_victims,n_offenders,weighted,victim_rate_per_100k,offender_rate_per_100k
+2021,"American Indian or Alaska Native, Hispanic/Latino",0-4,0,0,199025,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",5-9,0,0,226414,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",10-14,0,0,272742,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",15-19,1,3,260526,0.38383884909759486,1.1515165472927846
+2021,"American Indian or Alaska Native, Hispanic/Latino",20-24,0,0,221230,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",25-29,1,0,211504,0.4728042968454497,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",30-34,0,2,226979,0,0.8811387837641367
+2021,"American Indian or Alaska Native, Hispanic/Latino",35-39,1,0,224505,0.4454243780762121,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",40-44,1,0,214066,0.46714564666971875,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",45-49,0,1,175694,0,0.569171400275479
+2021,"American Indian or Alaska Native, Hispanic/Latino",50-54,0,0,153749,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",55-59,0,0,125356,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",60-64,0,0,109282,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",65-69,1,0,72258,1.3839298070801849,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",70-74,0,0,50376,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",75-79,0,0,31449,0,0
+2021,"American Indian or Alaska Native, Hispanic/Latino",80+,0,0,27529,0,0
+2021,"American Indian or Alaska Native, NA",0-4,4,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",5-9,1,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",10-14,1,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",15-19,2,16,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",20-24,8,17,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",25-29,8,17,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",30-34,8,10,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",35-39,8,11,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",40-44,13,4,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",45-49,6,1,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",50-54,4,2,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",55-59,5,3,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",60-64,1,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",65-69,3,1,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",70-74,1,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",80+,1,0,NA,NA,NA
+2021,"American Indian or Alaska Native, NA",Unknown,1,2,NA,NA,NA
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,5,0,275066,1.8177455592475988,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,1,0,324232,0.3084211305484961,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,4,1,356502,1.1220133407386212,0.2805033351846553
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,8,13,366037,2.1855714039837504,3.551553531473594
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,13,22,327307,3.9718062858417325,6.721518329886009
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,18,21,315496,5.705302127443771,6.656185815351066
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,27,21,347087,7.779029465234941,6.050356250738288
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,10,13,328154,3.047349719948561,3.9615546359331293
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,24,17,314821,7.623379634776588,5.399893907966749
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,6,6,274666,2.184471321532334,2.184471321532334
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,12,5,297087,4.039220834301063,1.6830086809587763
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,4,3,304521,1.3135383109867629,0.9851537332400722
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,4,1,298912,1.3381864896692004,0.3345466224173001
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,6,0,234513,2.558493558992465,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,6,1,172953,3.469150578480859,0.5781917630801432
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,1,0,107771,0.9278934036057939,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",80+,0,0,99223,0,0
+2021,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,2,0,NA,NA,NA
+2021,"Asian, Hispanic/Latino",0-4,1,0,142912,0.699731303179579,0
+2021,"Asian, Hispanic/Latino",5-9,0,0,121761,0,0
+2021,"Asian, Hispanic/Latino",10-14,0,0,106178,0,0
+2021,"Asian, Hispanic/Latino",15-19,0,1,84886,0,1.178050561930118
+2021,"Asian, Hispanic/Latino",20-24,1,1,69294,1.4431263890091492,1.4431263890091492
+2021,"Asian, Hispanic/Latino",25-29,1,0,57586,1.736533185149168,0
+2021,"Asian, Hispanic/Latino",30-34,0,0,56669,0,0
+2021,"Asian, Hispanic/Latino",35-39,0,0,45592,0,0
+2021,"Asian, Hispanic/Latino",40-44,0,0,35367,0,0
+2021,"Asian, Hispanic/Latino",45-49,0,1,30449,0,3.284180104436927
+2021,"Asian, Hispanic/Latino",50-54,0,0,25324,0,0
+2021,"Asian, Hispanic/Latino",55-59,0,0,20424,0,0
+2021,"Asian, Hispanic/Latino",60-64,0,0,18914,0,0
+2021,"Asian, Hispanic/Latino",65-69,0,0,14615,0,0
+2021,"Asian, Hispanic/Latino",70-74,0,0,9143,0,0
+2021,"Asian, Hispanic/Latino",75-79,1,0,5885,16.99235344095157,0
+2021,"Asian, Hispanic/Latino",80+,0,0,5613,0,0
+2021,"Asian, NA",0-4,1,0,NA,NA,NA
+2021,"Asian, NA",10-14,1,0,NA,NA,NA
+2021,"Asian, NA",15-19,3,7,NA,NA,NA
+2021,"Asian, NA",20-24,4,9,NA,NA,NA
+2021,"Asian, NA",25-29,4,7,NA,NA,NA
+2021,"Asian, NA",30-34,7,6,NA,NA,NA
+2021,"Asian, NA",35-39,0,7,NA,NA,NA
+2021,"Asian, NA",40-44,4,2,NA,NA,NA
+2021,"Asian, NA",45-49,3,1,NA,NA,NA
+2021,"Asian, NA",50-54,5,0,NA,NA,NA
+2021,"Asian, NA",55-59,3,0,NA,NA,NA
+2021,"Asian, NA",60-64,4,0,NA,NA,NA
+2021,"Asian, NA",65-69,1,0,NA,NA,NA
+2021,"Asian, NA",70-74,1,1,NA,NA,NA
+2021,"Asian, NA",75-79,1,0,NA,NA,NA
+2021,"Asian, NA",80+,1,0,NA,NA,NA
+2021,"Asian, NA",Unknown,1,1,NA,NA,NA
+2021,"Asian, Not Hispanic/Latino",0-4,4,0,1304126,0.30671882931557226,0
+2021,"Asian, Not Hispanic/Latino",5-9,4,0,1414921,0.2827012956907135,0
+2021,"Asian, Not Hispanic/Latino",10-14,4,0,1439886,0.27779977025958996,0
+2021,"Asian, Not Hispanic/Latino",15-19,11,6,1386035,0.7936307524701757,0.4328895013473686
+2021,"Asian, Not Hispanic/Latino",20-24,14,10,1375733,1.0176393239095085,0.7268852313639347
+2021,"Asian, Not Hispanic/Latino",25-29,19,16,1640000,1.1585365853658538,0.975609756097561
+2021,"Asian, Not Hispanic/Latino",30-34,12,15,1862521,0.6442880375576974,0.8053600469471216
+2021,"Asian, Not Hispanic/Latino",35-39,14,9,1835237,0.7628442539029019,0.4903998775090084
+2021,"Asian, Not Hispanic/Latino",40-44,9,15,1660895,0.5418765183831609,0.9031275306386014
+2021,"Asian, Not Hispanic/Latino",45-49,9,3,1542662,0.5834071235306244,0.19446904117687477
+2021,"Asian, Not Hispanic/Latino",50-54,6,1,1382255,0.4340733077471233,0.07234555129118722
+2021,"Asian, Not Hispanic/Latino",55-59,5,3,1229566,0.4066475488099053,0.24398852928594317
+2021,"Asian, Not Hispanic/Latino",60-64,5,0,1083548,0.46144702403585264,0
+2021,"Asian, Not Hispanic/Latino",65-69,11,1,956525,1.1499960795588198,0.10454509814171088
+2021,"Asian, Not Hispanic/Latino",70-74,8,0,759573,1.0532233241571252,0
+2021,"Asian, Not Hispanic/Latino",75-79,1,1,487488,0.20513325456216358,0.20513325456216358
+2021,"Asian, Not Hispanic/Latino",80+,1,1,583073,0.17150511170985452,0.17150511170985452
+2021,"Asian, Not Hispanic/Latino",Unknown,0,1,NA,NA,NA
+2021,"Black or African American, Hispanic/Latino",0-4,3,0,358187,0.837551334917236,0
+2021,"Black or African American, Hispanic/Latino",5-9,0,0,347970,0,0
+2021,"Black or African American, Hispanic/Latino",10-14,1,4,329511,0.3034800052198561,1.2139200208794243
+2021,"Black or African American, Hispanic/Latino",15-19,13,12,264117,4.922061056274302,4.543440975022433
+2021,"Black or African American, Hispanic/Latino",20-24,10,16,220812,4.5287393801061535,7.245983008169847
+2021,"Black or African American, Hispanic/Latino",25-29,12,14,202057,5.938918226045126,6.928737930385981
+2021,"Black or African American, Hispanic/Latino",30-34,10,8,211964,4.717782264912909,3.7742258119303282
+2021,"Black or African American, Hispanic/Latino",35-39,13,5,168481,7.716003584973974,2.9676936865284516
+2021,"Black or African American, Hispanic/Latino",40-44,5,9,152946,3.269127665973612,5.884429798752501
+2021,"Black or African American, Hispanic/Latino",45-49,4,3,118751,3.368392687219476,2.526294515414607
+2021,"Black or African American, Hispanic/Latino",50-54,4,0,106094,3.770241483967048,0
+2021,"Black or African American, Hispanic/Latino",55-59,0,2,91438,0,2.187274437323651
+2021,"Black or African American, Hispanic/Latino",60-64,1,1,66072,1.5135004237801186,1.5135004237801186
+2021,"Black or African American, Hispanic/Latino",65-69,2,0,60620,3.299241174529858,0
+2021,"Black or African American, Hispanic/Latino",70-74,0,1,41227,0,2.4255948771436198
+2021,"Black or African American, Hispanic/Latino",75-79,1,0,26422,3.784724850503368,0
+2021,"Black or African American, Hispanic/Latino",80+,0,0,25895,0,0
+2021,"Black or African American, Hispanic/Latino",Unknown,2,1,NA,NA,NA
+2021,"Black or African American, NA",0-4,44,2,NA,NA,NA
+2021,"Black or African American, NA",5-9,21,3,NA,NA,NA
+2021,"Black or African American, NA",10-14,27,38,NA,NA,NA
+2021,"Black or African American, NA",15-19,285,633,NA,NA,NA
+2021,"Black or African American, NA",20-24,427,749,NA,NA,NA
+2021,"Black or African American, NA",25-29,426,500,NA,NA,NA
+2021,"Black or African American, NA",30-34,347,383,NA,NA,NA
+2021,"Black or African American, NA",35-39,209,224,NA,NA,NA
+2021,"Black or African American, NA",40-44,174,161,NA,NA,NA
+2021,"Black or African American, NA",45-49,114,82,NA,NA,NA
+2021,"Black or African American, NA",50-54,87,86,NA,NA,NA
+2021,"Black or African American, NA",55-59,70,42,NA,NA,NA
+2021,"Black or African American, NA",60-64,57,32,NA,NA,NA
+2021,"Black or African American, NA",65-69,28,12,NA,NA,NA
+2021,"Black or African American, NA",70-74,10,4,NA,NA,NA
+2021,"Black or African American, NA",75-79,4,0,NA,NA,NA
+2021,"Black or African American, NA",80+,7,13,NA,NA,NA
+2021,"Black or African American, NA",Unknown,25,317,NA,NA,NA
+2021,"Black or African American, Not Hispanic/Latino",0-4,158,4,3012178,5.245373945364451,0.13279427709783417
+2021,"Black or African American, Not Hispanic/Latino",5-9,67,0,3184851,2.103709090315371,0
+2021,"Black or African American, Not Hispanic/Latino",10-14,107,67,3503369,3.0542029686281977,1.9124448495148525
+2021,"Black or African American, Not Hispanic/Latino",15-19,954,1244,3350914,28.469844346945337,37.124199546750525
+2021,"Black or African American, Not Hispanic/Latino",20-24,1326,1440,3290584,40.296798379862054,43.76122900980494
+2021,"Black or African American, Not Hispanic/Latino",25-29,1225,1125,3335981,36.720832642631954,33.72321365139669
+2021,"Black or African American, Not Hispanic/Latino",30-34,1021,773,3326737,30.690733893301456,23.235981684154773
+2021,"Black or African American, Not Hispanic/Latino",35-39,712,470,2975922,23.925358258717804,15.793424693254728
+2021,"Black or African American, Not Hispanic/Latino",40-44,512,318,2869330,17.84388690042623,11.082726629561606
+2021,"Black or African American, Not Hispanic/Latino",45-49,343,175,2542592,13.49017066049134,6.882740132903745
+2021,"Black or African American, Not Hispanic/Latino",50-54,258,155,2603479,9.909816825870307,5.95357212406937
+2021,"Black or African American, Not Hispanic/Latino",55-59,208,92,2529052,8.2244255950451,3.637726705500717
+2021,"Black or African American, Not Hispanic/Latino",60-64,158,49,2547660,6.201769466883336,1.9233335688435664
+2021,"Black or African American, Not Hispanic/Latino",65-69,76,27,2009804,3.7814632670648485,1.3434145817204066
+2021,"Black or African American, Not Hispanic/Latino",70-74,57,9,1484997,3.838391592710288,0.6060618304279403
+2021,"Black or African American, Not Hispanic/Latino",75-79,20,7,869096,2.301241750048326,0.8054346125169141
+2021,"Black or African American, Not Hispanic/Latino",80+,11,5,1014500,1.0842779694430755,0.4928536224741252
+2021,"Black or African American, Not Hispanic/Latino",Unknown,49,250,NA,NA,NA
+2021,"NA, Hispanic/Latino",0-4,1,0,1478347,0.06764311761717648,0
+2021,"NA, Hispanic/Latino",5-9,0,0,1607232,0,0
+2021,"NA, Hispanic/Latino",10-14,0,0,1891752,0,0
+2021,"NA, Hispanic/Latino",15-19,6,8,1825700,0.3286410691789451,0.4381880922385934
+2021,"NA, Hispanic/Latino",20-24,12,9,1793530,0.6690716073887808,0.5018037055415856
+2021,"NA, Hispanic/Latino",25-29,11,7,1790698,0.6142856025974228,0.39090901983472365
+2021,"NA, Hispanic/Latino",30-34,6,8,1760762,0.34076155664422564,0.4543487421923008
+2021,"NA, Hispanic/Latino",35-39,5,7,1732828,0.2885456606195191,0.4039639248673267
+2021,"NA, Hispanic/Latino",40-44,6,4,1692427,0.3545204608529644,0.2363469739019763
+2021,"NA, Hispanic/Latino",45-49,4,1,1511770,0.26459051310715254,0.06614762827678813
+2021,"NA, Hispanic/Latino",50-54,1,0,1333576,0.07498635248384794,0
+2021,"NA, Hispanic/Latino",55-59,2,0,1114065,0.17952273879890313,0
+2021,"NA, Hispanic/Latino",60-64,0,1,883224,0,0.11322156100830594
+2021,"NA, Hispanic/Latino",65-69,2,0,650842,0.30729424345693734,0
+2021,"NA, Hispanic/Latino",70-74,0,0,416752,0,0
+2021,"NA, Hispanic/Latino",75-79,0,0,261430,0,0
+2021,"NA, Hispanic/Latino",80+,0,1,305605,0,0.3272197771633317
+2021,"NA, Hispanic/Latino",Unknown,1,5,NA,NA,NA
+2021,"NA, NA",0-4,12,21,NA,NA,NA
+2021,"NA, NA",5-9,6,2,NA,NA,NA
+2021,"NA, NA",10-14,4,3,NA,NA,NA
+2021,"NA, NA",15-19,23,70,NA,NA,NA
+2021,"NA, NA",20-24,26,93,NA,NA,NA
+2021,"NA, NA",25-29,23,67,NA,NA,NA
+2021,"NA, NA",30-34,24,42,NA,NA,NA
+2021,"NA, NA",35-39,22,36,NA,NA,NA
+2021,"NA, NA",40-44,20,23,NA,NA,NA
+2021,"NA, NA",45-49,12,15,NA,NA,NA
+2021,"NA, NA",50-54,19,58,NA,NA,NA
+2021,"NA, NA",55-59,19,36,NA,NA,NA
+2021,"NA, NA",60-64,4,1,NA,NA,NA
+2021,"NA, NA",65-69,5,3,NA,NA,NA
+2021,"NA, NA",70-74,7,1,NA,NA,NA
+2021,"NA, NA",75-79,3,1,NA,NA,NA
+2021,"NA, NA",80+,6,20,NA,NA,NA
+2021,"NA, NA",Unknown,62,4485,NA,NA,NA
+2021,"NA, Not Hispanic/Latino",0-4,4,0,164272,2.434985877081913,0
+2021,"NA, Not Hispanic/Latino",5-9,0,0,161587,0,0
+2021,"NA, Not Hispanic/Latino",10-14,0,0,159751,0,0
+2021,"NA, Not Hispanic/Latino",15-19,6,4,145834,4.114266906208429,2.7428446041389525
+2021,"NA, Not Hispanic/Latino",20-24,4,8,112707,3.549025348913555,7.09805069782711
+2021,"NA, Not Hispanic/Latino",25-29,8,2,117427,6.812743236223356,1.703185809055839
+2021,"NA, Not Hispanic/Latino",30-34,6,7,134255,4.46910729581766,5.21395851178727
+2021,"NA, Not Hispanic/Latino",35-39,1,3,137931,0.7250001812500453,2.1750005437501363
+2021,"NA, Not Hispanic/Latino",40-44,4,5,142129,2.8143447150124183,3.5179308937655227
+2021,"NA, Not Hispanic/Latino",45-49,5,0,109732,4.556555972733569,0
+2021,"NA, Not Hispanic/Latino",50-54,8,2,105751,7.564940284252631,1.8912350710631578
+2021,"NA, Not Hispanic/Latino",55-59,0,0,98612,0,0
+2021,"NA, Not Hispanic/Latino",60-64,4,1,88838,4.50257772574799,1.1256444314369976
+2021,"NA, Not Hispanic/Latino",65-69,0,0,68906,0,0
+2021,"NA, Not Hispanic/Latino",70-74,1,0,47275,2.1152829190904283,0
+2021,"NA, Not Hispanic/Latino",75-79,0,0,27492,0,0
+2021,"NA, Not Hispanic/Latino",80+,0,1,26451,0,3.780575403576424
+2021,"NA, Not Hispanic/Latino",Unknown,4,54,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,0,0,16619,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,0,0,16495,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,0,0,12762,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,1,1,9844,10.158472165786266,10.158472165786266
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,0,2,9837,0,20.33140185015757
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,1,1,13237,7.554581853894387,7.554581853894387
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,0,1,10735,0,9.315323707498836
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,0,0,9093,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,1,0,7407,13.500742540839745,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,0,0,4231,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,0,0,5533,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,0,1,5443,0,18.37222120154327
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,0,0,6005,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,0,0,2285,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,0,0,2183,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,0,0,1480,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,0,0,1445,0,0
+2021,"Native Hawaiian or Other Pacific Islander, NA",25-29,2,1,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, NA",30-34,2,0,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, NA",35-39,0,1,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, NA",40-44,0,1,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, NA",Unknown,1,1,NA,NA,NA
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,0,0,52020,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,0,0,56939,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,0,0,66840,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,3,3,64279,4.6671541249863875,4.6671541249863875
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,5,1,59944,8.341118377152009,1.6682236754304018
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,3,9,60880,4.92772667542707,14.783180026281208
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,0,9,65430,0,13.75515818431912
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,1,2,62168,1.6085445888560033,3.2170891777120065
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,2,3,56560,3.536067892503536,5.304101838755304
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,2,0,46156,4.333131120547708,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,2,1,40231,4.971290795655092,2.485645397827546
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,1,1,38841,2.5745990062047834,2.5745990062047834
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,3,0,41897,7.160417213642981,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,0,0,27730,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,0,0,24940,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,0,0,15979,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,0,0,12334,0,0
+2021,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,2,0,NA,NA,NA
+2021,"White, Hispanic/Latino",0-4,43,0,2634439,1.6322260640690485,0
+2021,"White, Hispanic/Latino",5-9,15,0,2774498,0.5406383425037611,0
+2021,"White, Hispanic/Latino",10-14,34,16,3052148,1.1139695715935138,0.5242209748675359
+2021,"White, Hispanic/Latino",15-19,265,431,2914374,9.092861794677004,14.788767673606749
+2021,"White, Hispanic/Latino",20-24,362,400,2648834,13.666390570341516,15.100984055625984
+2021,"White, Hispanic/Latino",25-29,275,314,2505954,10.973864643963935,12.53015817528973
+2021,"White, Hispanic/Latino",30-34,256,235,2476272,10.338121175702831,9.490072173008459
+2021,"White, Hispanic/Latino",35-39,201,159,2428537,8.276587921040528,6.54715163903206
+2021,"White, Hispanic/Latino",40-44,176,89,2330762,7.551178541609997,3.8184936943368735
+2021,"White, Hispanic/Latino",45-49,125,66,2128478,5.872740991450229,3.100807243485721
+2021,"White, Hispanic/Latino",50-54,85,39,1910328,4.449497677885683,2.0415342286769604
+2021,"White, Hispanic/Latino",55-59,51,31,1660951,3.070530075842093,1.8664006343353898
+2021,"White, Hispanic/Latino",60-64,50,13,1405091,3.5584883826029774,0.9252069794767741
+2021,"White, Hispanic/Latino",65-69,27,11,1063899,2.537834888462157,1.0339327323364342
+2021,"White, Hispanic/Latino",70-74,17,3,789435,2.1534388518370733,0.38001862091242467
+2021,"White, Hispanic/Latino",75-79,7,1,524922,1.3335314580070943,0.1905044940010135
+2021,"White, Hispanic/Latino",80+,12,3,650577,1.8445164830604217,0.4611291207651054
+2021,"White, Hispanic/Latino",Unknown,13,51,NA,NA,NA
+2021,"White, NA",0-4,57,0,NA,NA,NA
+2021,"White, NA",5-9,23,0,NA,NA,NA
+2021,"White, NA",10-14,16,21,NA,NA,NA
+2021,"White, NA",15-19,115,257,NA,NA,NA
+2021,"White, NA",20-24,148,334,NA,NA,NA
+2021,"White, NA",25-29,162,327,NA,NA,NA
+2021,"White, NA",30-34,169,322,NA,NA,NA
+2021,"White, NA",35-39,160,260,NA,NA,NA
+2021,"White, NA",40-44,139,209,NA,NA,NA
+2021,"White, NA",45-49,111,140,NA,NA,NA
+2021,"White, NA",50-54,120,98,NA,NA,NA
+2021,"White, NA",55-59,106,90,NA,NA,NA
+2021,"White, NA",60-64,80,44,NA,NA,NA
+2021,"White, NA",65-69,61,36,NA,NA,NA
+2021,"White, NA",70-74,43,26,NA,NA,NA
+2021,"White, NA",75-79,32,14,NA,NA,NA
+2021,"White, NA",80+,40,16,NA,NA,NA
+2021,"White, NA",Unknown,19,35,NA,NA,NA
+2021,"White, Not Hispanic/Latino",0-4,141,1,8946130,1.5761005037932603,0.01117801775739901
+2021,"White, Not Hispanic/Latino",5-9,36,5,9773022,0.3683609839413029,0.051161247769625405
+2021,"White, Not Hispanic/Latino",10-14,33,19,10662829,0.3094863473849201,0.17818910910040853
+2021,"White, Not Hispanic/Latino",15-19,217,249,11080765,1.958348543624921,2.2471372689520983
+2021,"White, Not Hispanic/Latino",20-24,321,393,11273209,2.847458962217413,3.4861413462661783
+2021,"White, Not Hispanic/Latino",25-29,354,377,11804201,2.998932329261421,3.1937782150608927
+2021,"White, Not Hispanic/Latino",30-34,409,414,12515560,3.2679320781491197,3.3078823480531434
+2021,"White, Not Hispanic/Latino",35-39,400,348,12502406,3.199384182532546,2.783464238803315
+2021,"White, Not Hispanic/Latino",40-44,327,242,11966091,2.732721989160871,2.0223814109386264
+2021,"White, Not Hispanic/Latino",45-49,277,152,11291372,2.453200549942027,1.3461605905819063
+2021,"White, Not Hispanic/Latino",50-54,283,137,12899086,2.193953897198608,1.0620907558876653
+2021,"White, Not Hispanic/Latino",55-59,248,129,13928834,1.7804792561961758,0.9261363872955912
+2021,"White, Not Hispanic/Latino",60-64,229,91,15100692,1.5164867941151305,0.602621389801209
+2021,"White, Not Hispanic/Latino",65-69,163,49,13208482,1.2340555106938103,0.3709737424785074
+2021,"White, Not Hispanic/Latino",70-74,117,33,11647511,1.0045064563579291,0.2833223338445441
+2021,"White, Not Hispanic/Latino",75-79,83,24,7529806,1.1022860349921366,0.31873331132302746
+2021,"White, Not Hispanic/Latino",80+,98,34,9451660,1.036854901678647,0.3597251699701428
+2021,"White, Not Hispanic/Latino",Unknown,23,19,NA,NA,NA
+2022,"American Indian or Alaska Native, Hispanic/Latino",0-4,0,0,210687,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",5-9,0,0,222317,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",10-14,0,0,253105,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",15-19,2,0,262042,0.7632364277482235,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",20-24,0,2,257517,0,0.7766477552938252
+2022,"American Indian or Alaska Native, Hispanic/Latino",25-29,0,1,229254,0,0.43619740549783215
+2022,"American Indian or Alaska Native, Hispanic/Latino",30-34,0,1,223809,0,0.44680955636279146
+2022,"American Indian or Alaska Native, Hispanic/Latino",35-39,1,0,215601,0.46381974109582047,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",40-44,0,0,223079,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",45-49,1,0,186939,0.5349338554287763,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",50-54,0,0,165494,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",55-59,0,0,120472,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",60-64,0,0,108016,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",65-69,0,0,79791,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",70-74,0,0,53836,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",75-79,0,0,31582,0,0
+2022,"American Indian or Alaska Native, Hispanic/Latino",80+,0,0,28090,0,0
+2022,"American Indian or Alaska Native, NA",0-4,1,0,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",5-9,2,0,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",10-14,1,1,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",15-19,10,19,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",20-24,13,17,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",25-29,10,25,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",30-34,17,14,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",35-39,20,13,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",40-44,9,9,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",45-49,7,9,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",50-54,5,3,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",55-59,8,2,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",60-64,1,2,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",65-69,5,1,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",70-74,1,0,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",75-79,1,0,NA,NA,NA
+2022,"American Indian or Alaska Native, NA",Unknown,3,0,NA,NA,NA
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,6,0,252062,2.3803667351683315,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,8,0,292418,2.7358096970774715,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,5,2,334295,1.4956849489223591,0.5982739795689436
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,15,20,336852,4.452994193295572,5.9373255910607625
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,14,25,296858,4.716059530145726,8.421534875260226
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,21,19,299700,7.007007007007006,6.339673006339673
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,27,21,318935,8.465674824023703,6.584413752018437
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,25,17,312248,8.006456406446159,5.444390356383387
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,15,14,313652,4.782370270235803,4.463545585553415
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,4,5,270659,1.4778743732888986,1.847342966611123
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,9,2,289549,3.1082821905791422,0.6907293756842537
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,5,2,280600,1.7818959372772631,0.7127583749109052
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,4,1,284841,1.4042922191678866,0.35107305479197165
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,2,0,234839,0.85164729878768,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,0,0,180752,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,0,0,112739,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",80+,0,0,101145,0,0
+2022,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,2,0,NA,NA,NA
+2022,"Asian, Hispanic/Latino",0-4,0,0,135996,0,0
+2022,"Asian, Hispanic/Latino",5-9,0,0,114347,0,0
+2022,"Asian, Hispanic/Latino",10-14,0,0,104339,0,0
+2022,"Asian, Hispanic/Latino",15-19,1,2,92706,1.078678834163916,2.157357668327832
+2022,"Asian, Hispanic/Latino",20-24,2,0,72721,2.7502372079591866,0
+2022,"Asian, Hispanic/Latino",25-29,0,0,67815,0,0
+2022,"Asian, Hispanic/Latino",30-34,0,1,52925,0,1.889466225791214
+2022,"Asian, Hispanic/Latino",35-39,0,0,43908,0,0
+2022,"Asian, Hispanic/Latino",40-44,1,0,37767,2.6478142293536684,0
+2022,"Asian, Hispanic/Latino",45-49,0,0,29687,0,0
+2022,"Asian, Hispanic/Latino",50-54,0,1,30257,0,3.3050203258750037
+2022,"Asian, Hispanic/Latino",55-59,0,1,18672,0,5.355612682090832
+2022,"Asian, Hispanic/Latino",60-64,0,0,18595,0,0
+2022,"Asian, Hispanic/Latino",65-69,0,0,13398,0,0
+2022,"Asian, Hispanic/Latino",70-74,0,0,9972,0,0
+2022,"Asian, Hispanic/Latino",75-79,0,0,7631,0,0
+2022,"Asian, Hispanic/Latino",80+,0,0,7788,0,0
+2022,"Asian, NA",0-4,3,0,NA,NA,NA
+2022,"Asian, NA",10-14,2,0,NA,NA,NA
+2022,"Asian, NA",15-19,1,4,NA,NA,NA
+2022,"Asian, NA",20-24,0,6,NA,NA,NA
+2022,"Asian, NA",25-29,4,8,NA,NA,NA
+2022,"Asian, NA",30-34,4,3,NA,NA,NA
+2022,"Asian, NA",35-39,6,6,NA,NA,NA
+2022,"Asian, NA",40-44,5,3,NA,NA,NA
+2022,"Asian, NA",45-49,5,2,NA,NA,NA
+2022,"Asian, NA",50-54,4,2,NA,NA,NA
+2022,"Asian, NA",55-59,5,4,NA,NA,NA
+2022,"Asian, NA",60-64,2,2,NA,NA,NA
+2022,"Asian, NA",65-69,2,1,NA,NA,NA
+2022,"Asian, NA",70-74,4,0,NA,NA,NA
+2022,"Asian, NA",80+,2,0,NA,NA,NA
+2022,"Asian, NA",Unknown,1,3,NA,NA,NA
+2022,"Asian, Not Hispanic/Latino",0-4,6,0,1284654,0.46705182874143547,0
+2022,"Asian, Not Hispanic/Latino",5-9,2,0,1413614,0.14148133790412376,0
+2022,"Asian, Not Hispanic/Latino",10-14,2,1,1457839,0.13718936041634228,0.06859468020817114
+2022,"Asian, Not Hispanic/Latino",15-19,12,14,1440825,0.8328561761490813,0.9716655388405948
+2022,"Asian, Not Hispanic/Latino",20-24,18,24,1491196,1.207084782952744,1.6094463772703254
+2022,"Asian, Not Hispanic/Latino",25-29,12,17,1634064,0.7343653614546309,1.0403509287273938
+2022,"Asian, Not Hispanic/Latino",30-34,18,14,1903849,0.9454531320498631,0.7353524360387824
+2022,"Asian, Not Hispanic/Latino",35-39,14,5,1860689,0.752409456926977,0.2687176631882061
+2022,"Asian, Not Hispanic/Latino",40-44,15,11,1754293,0.855045308850916,0.6270332264906717
+2022,"Asian, Not Hispanic/Latino",45-49,7,9,1560545,0.4485612398232669,0.576721594058486
+2022,"Asian, Not Hispanic/Latino",50-54,14,4,1456826,0.9609932826569543,0.27456950933055835
+2022,"Asian, Not Hispanic/Latino",55-59,7,8,1269661,0.5513282679392373,0.630089449073414
+2022,"Asian, Not Hispanic/Latino",60-64,6,6,1110991,0.5400583803109116,0.5400583803109116
+2022,"Asian, Not Hispanic/Latino",65-69,7,1,996849,0.7022126721298813,0.10031609601855447
+2022,"Asian, Not Hispanic/Latino",70-74,2,0,769231,0.2599999220000234,0
+2022,"Asian, Not Hispanic/Latino",75-79,6,1,522401,1.1485429775210998,0.19142382958684998
+2022,"Asian, Not Hispanic/Latino",80+,1,0,649339,0.1540027628095648,0
+2022,"Asian, Not Hispanic/Latino",Unknown,2,1,NA,NA,NA
+2022,"Black or African American, Hispanic/Latino",0-4,4,0,371365,1.0771074280021002,0
+2022,"Black or African American, Hispanic/Latino",5-9,1,0,350032,0.285688165653426,0
+2022,"Black or African American, Hispanic/Latino",10-14,2,3,339515,0.5890755931254879,0.8836133896882317
+2022,"Black or African American, Hispanic/Latino",15-19,15,14,282728,5.305452590475651,4.951755751110608
+2022,"Black or African American, Hispanic/Latino",20-24,10,18,255367,3.9159327556027206,7.048678960084897
+2022,"Black or African American, Hispanic/Latino",25-29,17,13,218027,7.797199429428466,5.962564269562944
+2022,"Black or African American, Hispanic/Latino",30-34,15,10,214506,6.992811389891192,4.661874259927461
+2022,"Black or African American, Hispanic/Latino",35-39,20,6,183755,10.884057576664581,3.265217272999374
+2022,"Black or African American, Hispanic/Latino",40-44,4,5,156586,2.5545067886017905,3.1931334857522384
+2022,"Black or African American, Hispanic/Latino",45-49,3,2,128757,2.329970409375801,1.553313606250534
+2022,"Black or African American, Hispanic/Latino",50-54,1,0,108469,0.9219223925729932,0
+2022,"Black or African American, Hispanic/Latino",55-59,2,0,90973,2.198454486495993,0
+2022,"Black or African American, Hispanic/Latino",60-64,0,0,76680,0,0
+2022,"Black or African American, Hispanic/Latino",65-69,1,1,55125,1.8140589569160996,1.8140589569160996
+2022,"Black or African American, Hispanic/Latino",70-74,0,1,40402,0,2.4751249938121878
+2022,"Black or African American, Hispanic/Latino",75-79,0,0,27541,0,0
+2022,"Black or African American, Hispanic/Latino",80+,0,0,26206,0,0
+2022,"Black or African American, Hispanic/Latino",Unknown,2,3,NA,NA,NA
+2022,"Black or African American, NA",0-4,51,1,NA,NA,NA
+2022,"Black or African American, NA",5-9,16,0,NA,NA,NA
+2022,"Black or African American, NA",10-14,38,44,NA,NA,NA
+2022,"Black or African American, NA",15-19,292,570,NA,NA,NA
+2022,"Black or African American, NA",20-24,402,614,NA,NA,NA
+2022,"Black or African American, NA",25-29,356,473,NA,NA,NA
+2022,"Black or African American, NA",30-34,340,329,NA,NA,NA
+2022,"Black or African American, NA",35-39,217,215,NA,NA,NA
+2022,"Black or African American, NA",40-44,175,171,NA,NA,NA
+2022,"Black or African American, NA",45-49,105,89,NA,NA,NA
+2022,"Black or African American, NA",50-54,107,79,NA,NA,NA
+2022,"Black or African American, NA",55-59,80,59,NA,NA,NA
+2022,"Black or African American, NA",60-64,56,26,NA,NA,NA
+2022,"Black or African American, NA",65-69,29,17,NA,NA,NA
+2022,"Black or African American, NA",70-74,11,5,NA,NA,NA
+2022,"Black or African American, NA",75-79,5,0,NA,NA,NA
+2022,"Black or African American, NA",80+,9,8,NA,NA,NA
+2022,"Black or African American, NA",Unknown,25,225,NA,NA,NA
+2022,"Black or African American, Not Hispanic/Latino",0-4,152,1,3066404,4.956946312358059,0.03261148889709249
+2022,"Black or African American, Not Hispanic/Latino",5-9,50,4,3184187,1.5702595356365692,0.12562076285092552
+2022,"Black or African American, Not Hispanic/Latino",10-14,103,90,3438346,2.995626385477203,2.6175376183781385
+2022,"Black or African American, Not Hispanic/Latino",15-19,1014,1300,3336653,30.38973486304989,38.961198542371655
+2022,"Black or African American, Not Hispanic/Latino",20-24,1246,1330,3464622,35.96351925260533,38.38802616851131
+2022,"Black or African American, Not Hispanic/Latino",25-29,1149,1000,3313562,34.67567530047725,30.179003742800045
+2022,"Black or African American, Not Hispanic/Latino",30-34,1046,761,3441224,30.396161365839596,22.114224473617526
+2022,"Black or African American, Not Hispanic/Latino",35-39,686,471,3006191,22.81957467107047,15.667667157542553
+2022,"Black or African American, Not Hispanic/Latino",40-44,561,367,2933244,19.125582460920402,12.511744675860584
+2022,"Black or African American, Not Hispanic/Latino",45-49,337,179,2548193,13.225057913588179,7.024585657365828
+2022,"Black or African American, Not Hispanic/Latino",50-54,261,139,2631283,9.91911550372955,5.282594080530297
+2022,"Black or African American, Not Hispanic/Latino",55-59,178,83,2487178,7.156705310194927,3.337115397450444
+2022,"Black or African American, Not Hispanic/Latino",60-64,155,85,2570569,6.029793403717232,3.306660898812675
+2022,"Black or African American, Not Hispanic/Latino",65-69,89,36,2054141,4.3327113377319275,1.7525573950376336
+2022,"Black or African American, Not Hispanic/Latino",70-74,39,10,1516652,2.571453438231051,0.6593470354438592
+2022,"Black or African American, Not Hispanic/Latino",75-79,17,4,938154,1.8120692338358093,0.42636923149077866
+2022,"Black or African American, Not Hispanic/Latino",80+,25,3,1071480,2.3332213387090754,0.27998656064508903
+2022,"Black or African American, Not Hispanic/Latino",Unknown,48,277,NA,NA,NA
+2022,"NA, Hispanic/Latino",0-4,3,0,1466817,0.2045244907851491,0
+2022,"NA, Hispanic/Latino",5-9,0,0,1618825,0,0
+2022,"NA, Hispanic/Latino",10-14,1,3,1850928,0.054026952966295824,0.1620808588988875
+2022,"NA, Hispanic/Latino",15-19,4,8,1854680,0.2156706278171976,0.4313412556343952
+2022,"NA, Hispanic/Latino",20-24,8,10,1894605,0.42225160389632665,0.5278145048704084
+2022,"NA, Hispanic/Latino",25-29,8,10,1818490,0.43992543263916767,0.5499067907989595
+2022,"NA, Hispanic/Latino",30-34,12,6,1812537,0.6620554504542527,0.33102772522712637
+2022,"NA, Hispanic/Latino",35-39,15,3,1757733,0.8533719285010863,0.17067438570021726
+2022,"NA, Hispanic/Latino",40-44,4,6,1723277,0.23211590475588081,0.3481738571338212
+2022,"NA, Hispanic/Latino",45-49,3,3,1548476,0.19373887615952715,0.19373887615952715
+2022,"NA, Hispanic/Latino",50-54,2,2,1344127,0.14879546352390807,0.14879546352390807
+2022,"NA, Hispanic/Latino",55-59,4,1,1139926,0.35089997069985246,0.08772499267496311
+2022,"NA, Hispanic/Latino",60-64,0,0,907650,0,0
+2022,"NA, Hispanic/Latino",65-69,1,1,669040,0.14946789429630516,0.14946789429630516
+2022,"NA, Hispanic/Latino",70-74,0,0,470756,0,0
+2022,"NA, Hispanic/Latino",75-79,0,0,286426,0,0
+2022,"NA, Hispanic/Latino",80+,0,0,321918,0,0
+2022,"NA, Hispanic/Latino",Unknown,2,7,NA,NA,NA
+2022,"NA, NA",0-4,21,11,NA,NA,NA
+2022,"NA, NA",5-9,1,1,NA,NA,NA
+2022,"NA, NA",10-14,10,5,NA,NA,NA
+2022,"NA, NA",15-19,25,64,NA,NA,NA
+2022,"NA, NA",20-24,42,66,NA,NA,NA
+2022,"NA, NA",25-29,33,78,NA,NA,NA
+2022,"NA, NA",30-34,30,69,NA,NA,NA
+2022,"NA, NA",35-39,23,50,NA,NA,NA
+2022,"NA, NA",40-44,16,20,NA,NA,NA
+2022,"NA, NA",45-49,24,20,NA,NA,NA
+2022,"NA, NA",50-54,16,89,NA,NA,NA
+2022,"NA, NA",55-59,24,54,NA,NA,NA
+2022,"NA, NA",60-64,10,4,NA,NA,NA
+2022,"NA, NA",65-69,9,4,NA,NA,NA
+2022,"NA, NA",70-74,5,1,NA,NA,NA
+2022,"NA, NA",75-79,4,3,NA,NA,NA
+2022,"NA, NA",80+,4,17,NA,NA,NA
+2022,"NA, NA",Unknown,57,4574,NA,NA,NA
+2022,"NA, Not Hispanic/Latino",0-4,5,1,163467,3.0587213321343145,0.611744266426863
+2022,"NA, Not Hispanic/Latino",5-9,0,1,169631,0,0.5895148881985015
+2022,"NA, Not Hispanic/Latino",10-14,1,1,166738,0.5997433098633784,0.5997433098633784
+2022,"NA, Not Hispanic/Latino",15-19,7,9,135585,5.1628129955378546,6.637902422834384
+2022,"NA, Not Hispanic/Latino",20-24,3,15,117978,2.542846971469257,12.714234857346286
+2022,"NA, Not Hispanic/Latino",25-29,11,5,123486,8.907892392659896,4.04904199666359
+2022,"NA, Not Hispanic/Latino",30-34,3,3,133169,2.2527765470942938,2.2527765470942938
+2022,"NA, Not Hispanic/Latino",35-39,6,4,136098,4.4085879292862495,2.9390586195241664
+2022,"NA, Not Hispanic/Latino",40-44,5,2,137997,3.6232671724747636,1.4493068689899056
+2022,"NA, Not Hispanic/Latino",45-49,5,1,118087,4.234166334990304,0.8468332669980607
+2022,"NA, Not Hispanic/Latino",50-54,1,3,119830,0.8345155637152633,2.50354669114579
+2022,"NA, Not Hispanic/Latino",55-59,4,4,101038,3.9589065500108873,3.9589065500108873
+2022,"NA, Not Hispanic/Latino",60-64,1,0,96798,1.033079195851154,0
+2022,"NA, Not Hispanic/Latino",65-69,2,3,72408,2.762125731963319,4.143188597944978
+2022,"NA, Not Hispanic/Latino",70-74,2,1,50132,3.989467804994814,1.994733902497407
+2022,"NA, Not Hispanic/Latino",75-79,2,0,31661,6.316919869871451,0
+2022,"NA, Not Hispanic/Latino",80+,0,1,27883,0,3.5864146612631354
+2022,"NA, Not Hispanic/Latino",Unknown,3,51,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,0,0,15574,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,0,0,17812,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,1,0,16610,6.020469596628537,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,0,1,16459,0,6.075703262652652
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,1,3,14280,7.002801120448178,21.008403361344538
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,1,1,13142,7.609191903819814,7.609191903819814
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,0,3,12134,0,24.723916268336907
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,1,3,11252,8.887308922858159,26.661926768574478
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,0,1,9153,0,10.925379656943079
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,0,0,8821,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,0,0,7162,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,1,0,6131,16.31055292774425,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,1,0,3346,29.886431560071724,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,0,0,1698,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,0,0,1363,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,0,0,1486,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,0,0,1268,0,0
+2022,"Native Hawaiian or Other Pacific Islander, NA",0-4,1,0,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",15-19,0,2,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",25-29,1,2,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",30-34,1,3,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",35-39,1,0,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",40-44,2,0,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, NA",Unknown,1,1,NA,NA,NA
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,1,0,54270,1.8426386585590566,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,0,0,61092,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,2,0,60903,3.2839104806002988,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,1,3,61922,1.6149349181227997,4.844804754368399
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,6,2,60278,9.95388035435814,3.3179601181193803
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,4,4,67566,5.920137347186455,5.920137347186455
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,3,1,66154,4.534873174713548,1.5116243915711824
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,3,4,62509,4.799308899518469,6.399078532691291
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,3,3,54924,5.462093074065982,5.462093074065982
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,1,0,51789,1.9309119697233001,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,2,0,43753,4.571115123534387,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,1,0,43770,2.284669865204478,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,1,0,38719,2.582711330354606,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,1,0,28200,3.5460992907801416,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,0,0,21480,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,0,0,14327,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,0,0,15219,0,0
+2022,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,0,5,NA,NA,NA
+2022,"White, Hispanic/Latino",0-4,45,0,2625890,1.7137046867919066,0
+2022,"White, Hispanic/Latino",5-9,22,0,2728086,0.8064261903766964,0
+2022,"White, Hispanic/Latino",10-14,75,41,2965576,2.5290196575639943,1.3825307461349836
+2022,"White, Hispanic/Latino",15-19,369,527,2928546,12.600109405828011,17.99527820290342
+2022,"White, Hispanic/Latino",20-24,327,433,2819156,11.59921621932238,15.359206798062967
+2022,"White, Hispanic/Latino",25-29,330,297,2536933,13.007832686160809,11.707049417544729
+2022,"White, Hispanic/Latino",30-34,297,257,2510444,11.83057658326575,10.237232935687869
+2022,"White, Hispanic/Latino",35-39,257,174,2420211,10.618908847203818,7.189455795383131
+2022,"White, Hispanic/Latino",40-44,186,145,2368098,7.854404674130885,6.123057407252571
+2022,"White, Hispanic/Latino",45-49,140,92,2121743,6.598348621864194,4.336057665796471
+2022,"White, Hispanic/Latino",50-54,110,44,1959280,5.614307296557919,2.245722918623168
+2022,"White, Hispanic/Latino",55-59,65,30,1707928,3.805781039950162,1.7565143261308438
+2022,"White, Hispanic/Latino",60-64,39,12,1427546,2.7319610016069538,0.8406033851098318
+2022,"White, Hispanic/Latino",65-69,23,7,1082151,2.1253965481711887,0.6468598190086225
+2022,"White, Hispanic/Latino",70-74,21,8,814691,2.577664415097258,0.9819673962275267
+2022,"White, Hispanic/Latino",75-79,13,2,543225,2.3931151916793225,0.368171567950665
+2022,"White, Hispanic/Latino",80+,14,1,689623,2.030094703917938,0.145006764565567
+2022,"White, Hispanic/Latino",Unknown,15,58,NA,NA,NA
+2022,"White, NA",0-4,63,0,NA,NA,NA
+2022,"White, NA",5-9,23,1,NA,NA,NA
+2022,"White, NA",10-14,22,15,NA,NA,NA
+2022,"White, NA",15-19,96,243,NA,NA,NA
+2022,"White, NA",20-24,147,307,NA,NA,NA
+2022,"White, NA",25-29,123,265,NA,NA,NA
+2022,"White, NA",30-34,169,282,NA,NA,NA
+2022,"White, NA",35-39,146,219,NA,NA,NA
+2022,"White, NA",40-44,138,178,NA,NA,NA
+2022,"White, NA",45-49,100,128,NA,NA,NA
+2022,"White, NA",50-54,96,115,NA,NA,NA
+2022,"White, NA",55-59,103,84,NA,NA,NA
+2022,"White, NA",60-64,77,52,NA,NA,NA
+2022,"White, NA",65-69,60,37,NA,NA,NA
+2022,"White, NA",70-74,50,22,NA,NA,NA
+2022,"White, NA",75-79,34,21,NA,NA,NA
+2022,"White, NA",80+,44,19,NA,NA,NA
+2022,"White, NA",Unknown,21,36,NA,NA,NA
+2022,"White, Not Hispanic/Latino",0-4,127,0,8640134,1.4698846105859007,0
+2022,"White, Not Hispanic/Latino",5-9,48,1,9600322,0.4999832297291695,0.010416317286024365
+2022,"White, Not Hispanic/Latino",10-14,51,13,10268735,0.4966531904854883,0.1265978720845362
+2022,"White, Not Hispanic/Latino",15-19,203,261,10946271,1.8545128290721105,2.384373637378428
+2022,"White, Not Hispanic/Latino",20-24,284,361,11750893,2.416837596938377,3.072106945404064
+2022,"White, Not Hispanic/Latino",25-29,297,347,11678354,2.5431666140622213,2.971309141682124
+2022,"White, Not Hispanic/Latino",30-34,415,379,12494571,3.3214425689365408,3.033317430426383
+2022,"White, Not Hispanic/Latino",35-39,347,311,12407269,2.7967476162562446,2.5065951258089108
+2022,"White, Not Hispanic/Latino",40-44,345,266,12092696,2.8529618209206618,2.199674911202597
+2022,"White, Not Hispanic/Latino",45-49,289,169,11053238,2.614618449362983,1.5289637299043048
+2022,"White, Not Hispanic/Latino",50-54,262,180,12657956,2.0698444519794506,1.422030539527867
+2022,"White, Not Hispanic/Latino",55-59,268,121,13262080,2.020799150661133,0.9123757359328251
+2022,"White, Not Hispanic/Latino",60-64,223,84,14948481,1.4917903698710255,0.5619300047944671
+2022,"White, Not Hispanic/Latino",65-69,165,54,13291221,1.2414209349163632,0.40628321506353704
+2022,"White, Not Hispanic/Latino",70-74,115,42,11406823,1.0081685321145073,0.36820068129399397
+2022,"White, Not Hispanic/Latino",75-79,98,34,8462020,1.158115910858164,0.40179531601201607
+2022,"White, Not Hispanic/Latino",80+,115,39,9977326,1.1526134357041153,0.39088629558661303
+2022,"White, Not Hispanic/Latino",Unknown,21,16,NA,NA,NA
+2023,"American Indian or Alaska Native, Hispanic/Latino",0-4,0,0,227036,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",5-9,0,0,244932,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",10-14,0,0,260425,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",15-19,1,4,285306,0.35050086573713835,1.4020034629485534
+2023,"American Indian or Alaska Native, Hispanic/Latino",20-24,1,0,261079,0.38302582743154373,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",25-29,0,0,246299,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",30-34,2,1,264912,0.75496768738298,0.37748384369149
+2023,"American Indian or Alaska Native, Hispanic/Latino",35-39,2,0,240822,0.8304889088206228,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",40-44,1,1,234189,0.42700553826183124,0.42700553826183124
+2023,"American Indian or Alaska Native, Hispanic/Latino",45-49,0,0,194156,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",50-54,0,0,169876,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",55-59,0,0,145257,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",60-64,1,0,106779,0.9365137339739087,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",65-69,1,0,82358,1.2142111270307683,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",70-74,0,0,56463,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",75-79,0,0,28851,0,0
+2023,"American Indian or Alaska Native, Hispanic/Latino",80+,0,0,33866,0,0
+2023,"American Indian or Alaska Native, NA",0-4,2,0,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",5-9,0,1,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",10-14,3,2,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",15-19,9,20,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",20-24,5,24,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",25-29,11,10,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",30-34,15,20,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",35-39,8,14,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",40-44,13,9,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",45-49,4,2,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",50-54,1,4,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",55-59,2,1,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",60-64,3,1,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",65-69,1,0,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",70-74,2,1,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",75-79,1,1,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",80+,1,0,NA,NA,NA
+2023,"American Indian or Alaska Native, NA",Unknown,1,4,NA,NA,NA
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,2,0,244369,0.8184344168040955,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,1,0,292569,0.34179971220464234,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,1,8,321930,0.31062653371851023,2.485012269748082
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,14,29,342509,4.087483832541627,8.466930795979083
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,19,22,286462,6.632642374904874,7.679901697258276
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,19,28,295185,6.4366414282568565,9.485576841641683
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,34,23,327319,10.387420223085124,7.026784268557584
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,25,18,316353,7.9025645402446,5.689846468976112
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,14,8,319980,4.375273454590912,2.5001562597662357
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,5,8,282836,1.7678089069283967,2.8284942510854347
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,7,2,283927,2.465422450136831,0.7044064143248089
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,7,5,271365,2.5795515265417426,1.8425368046726733
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,6,3,290192,2.067596625682307,1.0337983128411534
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,2,0,236135,0.8469731297774578,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,3,1,181419,1.6536305458634433,0.5512101819544811
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,0,0,117417,0,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",80+,1,0,115391,0.86661871376450506,0
+2023,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,3,0,NA,NA,NA
+2023,"Asian, Hispanic/Latino",0-4,0,0,130575,0,0
+2023,"Asian, Hispanic/Latino",5-9,0,0,114473,0,0
+2023,"Asian, Hispanic/Latino",10-14,0,0,116046,0,0
+2023,"Asian, Hispanic/Latino",15-19,1,0,91831,1.0889568881967964,0
+2023,"Asian, Hispanic/Latino",20-24,1,2,75320,1.327668613913967,2.655337227827934
+2023,"Asian, Hispanic/Latino",25-29,1,1,60392,1.6558484567492384,1.6558484567492384
+2023,"Asian, Hispanic/Latino",30-34,0,0,63109,0,0
+2023,"Asian, Hispanic/Latino",35-39,0,0,48981,0,0
+2023,"Asian, Hispanic/Latino",40-44,0,0,41614,0,0
+2023,"Asian, Hispanic/Latino",45-49,1,0,30620,3.2658393207054215,0
+2023,"Asian, Hispanic/Latino",50-54,0,0,29347,0,0
+2023,"Asian, Hispanic/Latino",55-59,0,0,21600,0,0
+2023,"Asian, Hispanic/Latino",60-64,0,0,20696,0,0
+2023,"Asian, Hispanic/Latino",65-69,0,0,12857,0,0
+2023,"Asian, Hispanic/Latino",70-74,1,0,11788,8.483203257550052,0
+2023,"Asian, Hispanic/Latino",75-79,1,0,6551,15.264845061822625,0
+2023,"Asian, Hispanic/Latino",80+,0,0,8933,0,0
+2023,"Asian, Hispanic/Latino",Unknown,0,1,NA,NA,NA
+2023,"Asian, NA",0-4,1,0,NA,NA,NA
+2023,"Asian, NA",5-9,2,0,NA,NA,NA
+2023,"Asian, NA",10-14,2,0,NA,NA,NA
+2023,"Asian, NA",15-19,1,2,NA,NA,NA
+2023,"Asian, NA",20-24,5,13,NA,NA,NA
+2023,"Asian, NA",25-29,1,6,NA,NA,NA
+2023,"Asian, NA",30-34,10,7,NA,NA,NA
+2023,"Asian, NA",35-39,5,3,NA,NA,NA
+2023,"Asian, NA",40-44,7,7,NA,NA,NA
+2023,"Asian, NA",45-49,4,2,NA,NA,NA
+2023,"Asian, NA",50-54,4,4,NA,NA,NA
+2023,"Asian, NA",55-59,3,2,NA,NA,NA
+2023,"Asian, NA",60-64,0,4,NA,NA,NA
+2023,"Asian, NA",65-69,1,3,NA,NA,NA
+2023,"Asian, NA",70-74,0,1,NA,NA,NA
+2023,"Asian, NA",75-79,1,0,NA,NA,NA
+2023,"Asian, NA",80+,1,0,NA,NA,NA
+2023,"Asian, NA",Unknown,0,2,NA,NA,NA
+2023,"Asian, Not Hispanic/Latino",0-4,7,0,1284517,0.5449519157784599,0
+2023,"Asian, Not Hispanic/Latino",5-9,8,0,1410670,0.5671064104290868,0
+2023,"Asian, Not Hispanic/Latino",10-14,4,1,1503001,0.2661342208022483,0.06653355520056208
+2023,"Asian, Not Hispanic/Latino",15-19,17,18,1500304,1.1331036909852936,1.1997568492785462
+2023,"Asian, Not Hispanic/Latino",20-24,15,23,1442170,1.0400992948126782,1.5948189187127733
+2023,"Asian, Not Hispanic/Latino",25-29,21,20,1663404,1.262471414040125,1.202353727657262
+2023,"Asian, Not Hispanic/Latino",30-34,16,12,1932030,0.8281444905099817,0.6211083678824862
+2023,"Asian, Not Hispanic/Latino",35-39,30,13,1933051,1.5519507762599123,0.672512003045962
+2023,"Asian, Not Hispanic/Latino",40-44,13,6,1789036,0.7266483178650401,0.3353761467069416
+2023,"Asian, Not Hispanic/Latino",45-49,16,12,1603096,0.9980687369939168,0.7485515527454375
+2023,"Asian, Not Hispanic/Latino",50-54,14,10,1512881,0.9253867290289189,0.6609905207349421
+2023,"Asian, Not Hispanic/Latino",55-59,16,4,1272151,1.2577123313191594,0.31442808282978985
+2023,"Asian, Not Hispanic/Latino",60-64,15,5,1158921,1.294307377293189,0.43143579243106306
+2023,"Asian, Not Hispanic/Latino",65-69,20,4,1038596,1.9256765864686556,0.3851353172937311
+2023,"Asian, Not Hispanic/Latino",70-74,12,2,817270,1.4683030087975821,0.24471716813293037
+2023,"Asian, Not Hispanic/Latino",75-79,5,1,570929,0.8757656381091169,0.1751531276218234
+2023,"Asian, Not Hispanic/Latino",80+,8,2,661710,1.2089888319656648,0.3022472079914162
+2023,"Asian, Not Hispanic/Latino",Unknown,1,2,NA,NA,NA
+2023,"Black or African American, Hispanic/Latino",0-4,4,0,385943,1.0364224768942565,0
+2023,"Black or African American, Hispanic/Latino",5-9,1,0,345182,0.2897022440335823,0
+2023,"Black or African American, Hispanic/Latino",10-14,1,0,343636,0.29100559894772376,0
+2023,"Black or African American, Hispanic/Latino",15-19,13,26,299170,4.345355483504362,8.690710967008725
+2023,"Black or African American, Hispanic/Latino",20-24,19,10,252123,7.536004251892925,3.966318027312066
+2023,"Black or African American, Hispanic/Latino",25-29,7,17,211336,3.312261044024681,8.04406253548851
+2023,"Black or African American, Hispanic/Latino",30-34,11,7,238736,4.607600026807854,2.9321091079686346
+2023,"Black or African American, Hispanic/Latino",35-39,11,1,185619,5.926117477197916,0.5387379524725378
+2023,"Black or African American, Hispanic/Latino",40-44,7,2,158132,4.426681506589431,1.2647661447398375
+2023,"Black or African American, Hispanic/Latino",45-49,4,2,135400,2.9542097488921715,1.4771048744460857
+2023,"Black or African American, Hispanic/Latino",50-54,4,4,112922,3.5422681142735692,3.5422681142735692
+2023,"Black or African American, Hispanic/Latino",55-59,3,0,99966,3.0010203469179517,0
+2023,"Black or African American, Hispanic/Latino",60-64,0,1,81210,0,1.2313754463735993
+2023,"Black or African American, Hispanic/Latino",65-69,1,0,63244,1.5811776611220036,0
+2023,"Black or African American, Hispanic/Latino",70-74,0,0,49979,0,0
+2023,"Black or African American, Hispanic/Latino",75-79,0,0,31536,0,0
+2023,"Black or African American, Hispanic/Latino",80+,0,0,36267,0,0
+2023,"Black or African American, Hispanic/Latino",Unknown,2,1,NA,NA,NA
+2023,"Black or African American, NA",0-4,46,3,NA,NA,NA
+2023,"Black or African American, NA",5-9,11,0,NA,NA,NA
+2023,"Black or African American, NA",10-14,29,46,NA,NA,NA
+2023,"Black or African American, NA",15-19,266,569,NA,NA,NA
+2023,"Black or African American, NA",20-24,300,588,NA,NA,NA
+2023,"Black or African American, NA",25-29,270,430,NA,NA,NA
+2023,"Black or African American, NA",30-34,287,310,NA,NA,NA
+2023,"Black or African American, NA",35-39,190,197,NA,NA,NA
+2023,"Black or African American, NA",40-44,157,152,NA,NA,NA
+2023,"Black or African American, NA",45-49,112,102,NA,NA,NA
+2023,"Black or African American, NA",50-54,75,81,NA,NA,NA
+2023,"Black or African American, NA",55-59,49,60,NA,NA,NA
+2023,"Black or African American, NA",60-64,54,30,NA,NA,NA
+2023,"Black or African American, NA",65-69,29,17,NA,NA,NA
+2023,"Black or African American, NA",70-74,11,5,NA,NA,NA
+2023,"Black or African American, NA",75-79,13,3,NA,NA,NA
+2023,"Black or African American, NA",80+,2,3,NA,NA,NA
+2023,"Black or African American, NA",Unknown,24,246,NA,NA,NA
+2023,"Black or African American, Not Hispanic/Latino",0-4,144,0,3036362,4.742517525907648,0
+2023,"Black or African American, Not Hispanic/Latino",5-9,53,0,3189260,1.661827508575657,0
+2023,"Black or African American, Not Hispanic/Latino",10-14,135,88,3393046,3.978725899973063,2.5935398459083667
+2023,"Black or African American, Not Hispanic/Latino",15-19,1021,1243,3443384,29.651064185696395,36.09821036515242
+2023,"Black or African American, Not Hispanic/Latino",20-24,1204,1269,3221428,37.37472946780124,39.39246818491675
+2023,"Black or African American, Not Hispanic/Latino",25-29,1064,876,3291824,32.32250569896811,26.61138627095495
+2023,"Black or African American, Not Hispanic/Latino",30-34,1007,796,3527630,28.54607767821455,22.56472475854894
+2023,"Black or African American, Not Hispanic/Latino",35-39,658,490,3025230,21.750412365340814,16.197115591211247
+2023,"Black or African American, Not Hispanic/Latino",40-44,587,388,3052528,19.229962837359725,12.710776117368948
+2023,"Black or African American, Not Hispanic/Latino",45-49,390,210,2589665,15.059862955247107,8.109156975902287
+2023,"Black or African American, Not Hispanic/Latino",50-54,268,177,2612767,10.2573248973215,6.774427264275766
+2023,"Black or African American, Not Hispanic/Latino",55-59,254,125,2434195,10.434661150811666,5.135167889178969
+2023,"Black or African American, Not Hispanic/Latino",60-64,147,72,2584724,5.687260999627039,2.7855972243071214
+2023,"Black or African American, Not Hispanic/Latino",65-69,111,42,2110735,5.258831639215724,1.9898281878113548
+2023,"Black or African American, Not Hispanic/Latino",70-74,55,15,1619916,3.3952377777613165,0.9259739393894498
+2023,"Black or African American, Not Hispanic/Latino",75-79,14,6,1011968,1.3834429547179357,0.5929041234505439
+2023,"Black or African American, Not Hispanic/Latino",80+,21,6,1082536,1.9398892969841188,0.5542540848526054
+2023,"Black or African American, Not Hispanic/Latino",Unknown,47,313,NA,NA,NA
+2023,"NA, Hispanic/Latino",0-4,3,0,1462538,0.20512287543981764,0
+2023,"NA, Hispanic/Latino",5-9,5,0,1606346,0.31126544343497603,0
+2023,"NA, Hispanic/Latino",10-14,5,3,1870974,0.267240485436997,0.1603442912621982
+2023,"NA, Hispanic/Latino",15-19,13,10,1893347,0.6866147621117523,0.5281652016244249
+2023,"NA, Hispanic/Latino",20-24,27,20,1875372,1.439714360670843,1.0664550819784022
+2023,"NA, Hispanic/Latino",25-29,34,13,1823606,1.864437822643707,0.7128732851284763
+2023,"NA, Hispanic/Latino",30-34,25,5,1842810,1.3566238516179097,0.27132477032358193
+2023,"NA, Hispanic/Latino",35-39,23,8,1769717,1.2996428242481708,0.4520496779993637
+2023,"NA, Hispanic/Latino",40-44,16,4,1771766,0.9030537892701407,0.22576344731753517
+2023,"NA, Hispanic/Latino",45-49,11,4,1573671,0.6990025233991095,0.25418273578149436
+2023,"NA, Hispanic/Latino",50-54,9,7,1384279,0.6501579522625135,0.5056784073152883
+2023,"NA, Hispanic/Latino",55-59,6,3,1159665,0.517390798204654,0.258695399102327
+2023,"NA, Hispanic/Latino",60-64,6,2,971687,0.617482790240067,0.20582759674668902
+2023,"NA, Hispanic/Latino",65-69,2,1,703696,0.2842136377071917,0.14210681885359586
+2023,"NA, Hispanic/Latino",70-74,2,0,495080,0.40397511513290785,0
+2023,"NA, Hispanic/Latino",75-79,2,0,298785,0.6693776461335074,0
+2023,"NA, Hispanic/Latino",80+,3,0,344063,0.8719333377898815,0
+2023,"NA, Hispanic/Latino",Unknown,1,29,NA,NA,NA
+2023,"NA, NA",0-4,28,5,NA,NA,NA
+2023,"NA, NA",5-9,6,0,NA,NA,NA
+2023,"NA, NA",10-14,6,3,NA,NA,NA
+2023,"NA, NA",15-19,30,73,NA,NA,NA
+2023,"NA, NA",20-24,34,82,NA,NA,NA
+2023,"NA, NA",25-29,29,45,NA,NA,NA
+2023,"NA, NA",30-34,27,44,NA,NA,NA
+2023,"NA, NA",35-39,19,36,NA,NA,NA
+2023,"NA, NA",40-44,21,35,NA,NA,NA
+2023,"NA, NA",45-49,12,22,NA,NA,NA
+2023,"NA, NA",50-54,19,67,NA,NA,NA
+2023,"NA, NA",55-59,17,25,NA,NA,NA
+2023,"NA, NA",60-64,16,3,NA,NA,NA
+2023,"NA, NA",65-69,12,6,NA,NA,NA
+2023,"NA, NA",70-74,3,0,NA,NA,NA
+2023,"NA, NA",75-79,1,0,NA,NA,NA
+2023,"NA, NA",80+,7,19,NA,NA,NA
+2023,"NA, NA",Unknown,74,4631,NA,NA,NA
+2023,"NA, Not Hispanic/Latino",0-4,9,0,171045,5.261773217574323,0
+2023,"NA, Not Hispanic/Latino",5-9,1,0,168423,0.5937431348450034,0
+2023,"NA, Not Hispanic/Latino",10-14,2,2,169135,1.182487362166317,1.182487362166317
+2023,"NA, Not Hispanic/Latino",15-19,6,5,142918,4.198211561874642,3.4985096348955342
+2023,"NA, Not Hispanic/Latino",20-24,10,17,123494,8.097559395598166,13.765850972516883
+2023,"NA, Not Hispanic/Latino",25-29,4,16,112686,3.549686740145182,14.198746960580728
+2023,"NA, Not Hispanic/Latino",30-34,6,4,134990,4.444773686939773,2.963182457959849
+2023,"NA, Not Hispanic/Latino",35-39,5,3,150799,3.315671854587895,1.9894031127527372
+2023,"NA, Not Hispanic/Latino",40-44,3,2,143024,2.097550061528135,1.3983667076854234
+2023,"NA, Not Hispanic/Latino",45-49,1,5,123636,0.808825908311495,4.044129541557475
+2023,"NA, Not Hispanic/Latino",50-54,6,3,101564,5.9076050569099285,2.9538025284549643
+2023,"NA, Not Hispanic/Latino",55-59,2,1,104152,1.920270374068669,0.9601351870343345
+2023,"NA, Not Hispanic/Latino",60-64,2,2,100762,1.9848752505905005,1.9848752505905005
+2023,"NA, Not Hispanic/Latino",65-69,2,1,76517,2.613798240913784,1.306899120456892
+2023,"NA, Not Hispanic/Latino",70-74,2,0,48004,4.166319473377219,0
+2023,"NA, Not Hispanic/Latino",75-79,1,0,32094,3.115847198853368,0
+2023,"NA, Not Hispanic/Latino",80+,2,1,34202,5.8476112508040465,2.9238056254020233
+2023,"NA, Not Hispanic/Latino",Unknown,2,31,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,0,0,14911,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,0,0,14926,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,0,0,13431,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,1,2,14072,7.106310403638431,14.212620807276862
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,1,1,16374,6.1072431904238424,6.1072431904238424
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,1,1,14097,7.093707881109456,7.093707881109456
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,0,0,12686,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,1,2,9964,10.036130068245685,20.07226013649137
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,0,0,10523,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,0,1,6334,0,15.787811809283232
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,0,0,8808,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,0,0,6324,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,0,0,3859,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,0,0,3245,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,0,0,1893,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,0,0,1132,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,0,0,1923,0,0
+2023,"Native Hawaiian or Other Pacific Islander, NA",5-9,1,0,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",10-14,1,0,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",15-19,0,5,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",20-24,3,4,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",25-29,3,2,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",30-34,2,2,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",35-39,1,0,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",45-49,0,2,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",50-54,0,2,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",60-64,1,0,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, NA",70-74,1,0,NA,NA,NA
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,0,0,55650,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,0,0,56029,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,0,1,59714,0,1.6746491610007703
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,1,8,56700,1.763668430335097,14.109347442680775
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,3,3,59393,5.0511002980149176,5.0511002980149176
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,5,1,64480,7.754342431761787,1.5508684863523574
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,3,3,71147,4.216621923622922,4.216621923622922
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,1,0,68710,1.4553922282055014,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,0,2,55192,0,3.6237135816785044
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,1,0,44673,2.238488572515837,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,4,0,40300,9.925558312655086,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,0,1,42664,0,2.3438964935308455
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,2,0,46422,4.308302098143122,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,2,0,30884,6.475845097785261,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,1,0,23014,4.345181194055792,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,1,0,16251,6.153467478924374,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,0,0,16117,0,0
+2023,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,0,1,NA,NA,NA
+2023,"White, Hispanic/Latino",0-4,60,0,2705608,2.2176161513419532,0
+2023,"White, Hispanic/Latino",5-9,16,0,2760433,0.5796192119134933,0
+2023,"White, Hispanic/Latino",10-14,44,45,2988723,1.4722006689813676,1.5056597750945806
+2023,"White, Hispanic/Latino",15-19,395,573,3071892,12.85852497418529,18.65299951951436
+2023,"White, Hispanic/Latino",20-24,402,481,2800848,14.35279601035115,17.17337035069379
+2023,"White, Hispanic/Latino",25-29,320,319,2596580,12.32390298007379,12.28539078326106
+2023,"White, Hispanic/Latino",30-34,359,241,2577215,13.92976526987465,9.351179470862927
+2023,"White, Hispanic/Latino",35-39,261,204,2512294,10.38891148886237,8.120068749915417
+2023,"White, Hispanic/Latino",40-44,213,129,2351873,9.056611475194451,5.4849900483572025
+2023,"White, Hispanic/Latino",45-49,138,84,2199859,6.2731293232884475,3.8184265446103596
+2023,"White, Hispanic/Latino",50-54,122,72,2001559,6.095248753596572,3.5971959857291242
+2023,"White, Hispanic/Latino",55-59,76,27,1752749,4.3360458342865975,1.5404373358649757
+2023,"White, Hispanic/Latino",60-64,45,14,1493502,3.0130525436189575,0.9373941246814534
+2023,"White, Hispanic/Latino",65-69,32,11,1159765,2.7591796613969213,0.9484680086051916
+2023,"White, Hispanic/Latino",70-74,15,2,869381,1.7253655186851335,0.2300487358246845
+2023,"White, Hispanic/Latino",75-79,8,2,588459,1.359482988619428,0.339870747154857
+2023,"White, Hispanic/Latino",80+,10,3,707031,1.4143651409909892,0.4243095422972967
+2023,"White, Hispanic/Latino",Unknown,17,75,NA,NA,NA
+2023,"White, NA",0-4,53,0,NA,NA,NA
+2023,"White, NA",5-9,17,0,NA,NA,NA
+2023,"White, NA",10-14,22,19,NA,NA,NA
+2023,"White, NA",15-19,131,301,NA,NA,NA
+2023,"White, NA",20-24,126,296,NA,NA,NA
+2023,"White, NA",25-29,133,270,NA,NA,NA
+2023,"White, NA",30-34,156,268,NA,NA,NA
+2023,"White, NA",35-39,149,241,NA,NA,NA
+2023,"White, NA",40-44,156,180,NA,NA,NA
+2023,"White, NA",45-49,110,136,NA,NA,NA
+2023,"White, NA",50-54,99,114,NA,NA,NA
+2023,"White, NA",55-59,118,93,NA,NA,NA
+2023,"White, NA",60-64,93,57,NA,NA,NA
+2023,"White, NA",65-69,64,40,NA,NA,NA
+2023,"White, NA",70-74,44,31,NA,NA,NA
+2023,"White, NA",75-79,35,19,NA,NA,NA
+2023,"White, NA",80+,39,16,NA,NA,NA
+2023,"White, NA",Unknown,15,36,NA,NA,NA
+2023,"White, Not Hispanic/Latino",0-4,107,0,8575817,1.2476945345265646,0
+2023,"White, Not Hispanic/Latino",5-9,40,1,9595487,0.4168626355285563,0.010421565888213908
+2023,"White, Not Hispanic/Latino",10-14,37,15,10163120,0.36406142995458085,0.14759247160320846
+2023,"White, Not Hispanic/Latino",15-19,231,271,10962583,2.1071676264617563,2.472045137537385
+2023,"White, Not Hispanic/Latino",20-24,311,354,11226929,2.770125294281277,3.153132971625633
+2023,"White, Not Hispanic/Latino",25-29,248,326,11503751,2.15581856735251,2.833858278052089
+2023,"White, Not Hispanic/Latino",30-34,358,353,12420951,2.8822269727978154,2.8419724061386282
+2023,"White, Not Hispanic/Latino",35-39,367,318,12469514,2.943178058102345,2.5502196797726038
+2023,"White, Not Hispanic/Latino",40-44,351,287,12263328,2.86219205749043,2.340310884614682
+2023,"White, Not Hispanic/Latino",45-49,287,183,11092498,2.5873342505899033,1.6497636510730043
+2023,"White, Not Hispanic/Latino",50-54,253,154,12368427,2.045530931297893,1.2451057842682824
+2023,"White, Not Hispanic/Latino",55-59,263,144,12852775,2.0462507123947944,1.1203806181933473
+2023,"White, Not Hispanic/Latino",60-64,244,113,14800058,1.6486421877535884,0.7635105213776865
+2023,"White, Not Hispanic/Latino",65-69,180,54,13524591,1.330909008634716,0.39927270259041475
+2023,"White, Not Hispanic/Latino",70-74,132,45,11633114,1.1346918804371726,0.3868267774217634
+2023,"White, Not Hispanic/Latino",75-79,84,39,8609290,0.9756902137110028,0.4529990277943942
+2023,"White, Not Hispanic/Latino",80+,103,35,10124170,1.0173673496197713,0.34570735181254364
+2023,"White, Not Hispanic/Latino",Unknown,23,15,NA,NA,NA
+2024,"American Indian or Alaska Native, Hispanic/Latino",0-4,0,0,246100,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",5-9,0,0,237414,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",10-14,0,0,266134,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",15-19,1,3,283420,0.3528332510055748,1.0584997530167244
+2024,"American Indian or Alaska Native, Hispanic/Latino",20-24,1,3,266200,0.3756574004507889,1.1269722013523666
+2024,"American Indian or Alaska Native, Hispanic/Latino",25-29,2,2,255674,0.7822461415709068,0.7822461415709068
+2024,"American Indian or Alaska Native, Hispanic/Latino",30-34,2,1,268554,0.7447291792339715,0.37236458961698576
+2024,"American Indian or Alaska Native, Hispanic/Latino",35-39,1,2,262023,0.38164588604817135,0.7632917720963427
+2024,"American Indian or Alaska Native, Hispanic/Latino",40-44,0,1,245728,0,0.40695403047271783
+2024,"American Indian or Alaska Native, Hispanic/Latino",45-49,0,0,218635,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",50-54,0,0,176505,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",55-59,0,0,147883,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",60-64,0,0,131645,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",65-69,0,0,96454,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",70-74,0,0,69282,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",75-79,0,0,37233,0,0
+2024,"American Indian or Alaska Native, Hispanic/Latino",80+,0,0,39915,0,0
+2024,"American Indian or Alaska Native, NA",0-4,6,0,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",5-9,1,0,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",10-14,1,1,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",15-19,11,33,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",20-24,9,13,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",25-29,9,14,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",30-34,14,23,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",35-39,10,6,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",40-44,4,7,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",45-49,7,4,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",50-54,3,3,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",55-59,5,3,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",60-64,1,2,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",65-69,1,1,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",70-74,2,0,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",75-79,1,0,NA,NA,NA
+2024,"American Indian or Alaska Native, NA",Unknown,2,1,NA,NA,NA
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",0-4,4,0,251238,1.5921158423486892,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",5-9,1,0,275420,0.3630818386464309,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",10-14,1,4,321626,0.31092013705359645,1.2436805482143858
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",15-19,14,27,342424,4.0884984697334295,7.884961334485901
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",20-24,15,10,298782,5.020382753981163,3.346921835987443
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",25-29,14,17,289775,4.831334656198775,5.866620653955655
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",30-34,13,18,328519,3.957153163135161,5.479135148956377
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",35-39,13,10,324017,4.012135165747476,3.086257819805751
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",40-44,8,9,328832,2.4328532502919424,2.736959906578435
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",45-49,11,5,279796,3.931435760339676,1.787016254699853
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",50-54,12,6,281615,4.261136658203576,2.130568329101788
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",55-59,3,2,264543,1.134031140495118,0.7560207603300786
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",60-64,0,3,291806,0,1.028080299925293
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",65-69,4,1,249358,1.6041193785641525,0.40102984464103814
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",70-74,1,1,189258,0.528379249490114,0.528379249490114
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",75-79,5,0,133087,3.756940948402173,0
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",80+,1,1,128023,0.781109644360779,0.781109644360779
+2024,"American Indian or Alaska Native, Not Hispanic/Latino",Unknown,2,1,NA,NA,NA
+2024,"Asian, Hispanic/Latino",0-4,0,0,150531,0,0
+2024,"Asian, Hispanic/Latino",5-9,0,0,124895,0,0
+2024,"Asian, Hispanic/Latino",10-14,0,0,119565,0,0
+2024,"Asian, Hispanic/Latino",15-19,3,1,101910,2.9437739181630853,0.9812579727210283
+2024,"Asian, Hispanic/Latino",20-24,2,2,72763,2.74864972582219,2.74864972582219
+2024,"Asian, Hispanic/Latino",25-29,0,0,64782,0,0
+2024,"Asian, Hispanic/Latino",30-34,1,0,60592,1.6503828888302086,0
+2024,"Asian, Hispanic/Latino",35-39,0,1,56407,0,1.7728296133458612
+2024,"Asian, Hispanic/Latino",40-44,0,0,41429,0,0
+2024,"Asian, Hispanic/Latino",45-49,0,0,36060,0,0
+2024,"Asian, Hispanic/Latino",50-54,0,0,29834,0,0
+2024,"Asian, Hispanic/Latino",55-59,0,0,22758,0,0
+2024,"Asian, Hispanic/Latino",60-64,0,0,21040,0,0
+2024,"Asian, Hispanic/Latino",65-69,0,0,13354,0,0
+2024,"Asian, Hispanic/Latino",70-74,0,0,11349,0,0
+2024,"Asian, Hispanic/Latino",75-79,0,0,7801,0,0
+2024,"Asian, Hispanic/Latino",80+,0,0,10310,0,0
+2024,"Asian, NA",0-4,3,0,NA,NA,NA
+2024,"Asian, NA",5-9,2,0,NA,NA,NA
+2024,"Asian, NA",10-14,2,0,NA,NA,NA
+2024,"Asian, NA",15-19,4,7,NA,NA,NA
+2024,"Asian, NA",20-24,3,1,NA,NA,NA
+2024,"Asian, NA",25-29,7,12,NA,NA,NA
+2024,"Asian, NA",30-34,7,10,NA,NA,NA
+2024,"Asian, NA",35-39,4,6,NA,NA,NA
+2024,"Asian, NA",40-44,8,8,NA,NA,NA
+2024,"Asian, NA",45-49,4,6,NA,NA,NA
+2024,"Asian, NA",50-54,5,3,NA,NA,NA
+2024,"Asian, NA",55-59,2,2,NA,NA,NA
+2024,"Asian, NA",60-64,2,2,NA,NA,NA
+2024,"Asian, NA",65-69,1,1,NA,NA,NA
+2024,"Asian, NA",70-74,3,0,NA,NA,NA
+2024,"Asian, NA",75-79,2,0,NA,NA,NA
+2024,"Asian, NA",80+,2,0,NA,NA,NA
+2024,"Asian, NA",Unknown,0,1,NA,NA,NA
+2024,"Asian, Not Hispanic/Latino",0-4,7,0,1342717,0.5213310027354983,0
+2024,"Asian, Not Hispanic/Latino",5-9,2,0,1494274,0.13384426149421055,0
+2024,"Asian, Not Hispanic/Latino",10-14,2,0,1553452,0.12874552931149466,0
+2024,"Asian, Not Hispanic/Latino",15-19,7,13,1560379,0.448608959746318,0.8331309252431621
+2024,"Asian, Not Hispanic/Latino",20-24,14,25,1626040,0.860987429583528,1.5374775528277287
+2024,"Asian, Not Hispanic/Latino",25-29,27,20,1827633,1.4773206655822038,1.0943116041349659
+2024,"Asian, Not Hispanic/Latino",30-34,20,17,2059355,0.9711778687987258,0.825501188478917
+2024,"Asian, Not Hispanic/Latino",35-39,26,13,2093000,1.2422360248447204,0.6211180124223602
+2024,"Asian, Not Hispanic/Latino",40-44,11,10,1958971,0.5615192874218149,0.5104720794743771
+2024,"Asian, Not Hispanic/Latino",45-49,8,10,1675212,0.47755149795966123,0.5969393724495765
+2024,"Asian, Not Hispanic/Latino",50-54,20,7,1584744,1.2620334893206726,0.4417117212622354
+2024,"Asian, Not Hispanic/Latino",55-59,11,4,1322308,0.8318788058455368,0.3025013839438316
+2024,"Asian, Not Hispanic/Latino",60-64,11,4,1232326,0.892620946080826,0.3245894349384822
+2024,"Asian, Not Hispanic/Latino",65-69,11,4,1088371,1.010684775687702,0.36752173661370985
+2024,"Asian, Not Hispanic/Latino",70-74,4,3,857509,0.4664674073391649,0.3498505555043737
+2024,"Asian, Not Hispanic/Latino",75-79,7,4,636140,1.1003867073285754,0.6287924041877574
+2024,"Asian, Not Hispanic/Latino",80+,6,1,714284,0.8400020160048384,0.1400003360008064
+2024,"Asian, Not Hispanic/Latino",Unknown,1,5,NA,NA,NA
+2024,"Black or African American, Hispanic/Latino",0-4,4,0,436881,0.9155811307884757,0
+2024,"Black or African American, Hispanic/Latino",5-9,2,0,382032,0.5235163546509193,0
+2024,"Black or African American, Hispanic/Latino",10-14,0,1,354431,0,0.28214236339372123
+2024,"Black or African American, Hispanic/Latino",15-19,9,32,320924,2.8044022883922675,9.971208136505838
+2024,"Black or African American, Hispanic/Latino",20-24,17,21,267854,6.346741135095986,7.840091990412688
+2024,"Black or African American, Hispanic/Latino",25-29,24,15,242519,9.896131849463341,6.185082405914589
+2024,"Black or African American, Hispanic/Latino",30-34,19,10,226745,8.379457099384771,4.410240578623564
+2024,"Black or African American, Hispanic/Latino",35-39,8,14,203573,3.9297942261498333,6.877139895762207
+2024,"Black or African American, Hispanic/Latino",40-44,10,5,179282,5.577804799143249,2.7889023995716244
+2024,"Black or African American, Hispanic/Latino",45-49,4,2,148426,2.6949456294719254,1.3474728147359627
+2024,"Black or African American, Hispanic/Latino",50-54,7,5,115058,6.083888125988632,4.345634375706165
+2024,"Black or African American, Hispanic/Latino",55-59,0,2,103450,0,1.9333011116481391
+2024,"Black or African American, Hispanic/Latino",60-64,2,0,84222,2.374676450333642,0
+2024,"Black or African American, Hispanic/Latino",65-69,0,1,69401,0,1.440901427933315
+2024,"Black or African American, Hispanic/Latino",70-74,1,0,49362,2.025849844009562,0
+2024,"Black or African American, Hispanic/Latino",75-79,0,0,29596,0,0
+2024,"Black or African American, Hispanic/Latino",80+,0,0,36548,0,0
+2024,"Black or African American, Hispanic/Latino",Unknown,0,6,NA,NA,NA
+2024,"Black or African American, NA",0-4,51,0,NA,NA,NA
+2024,"Black or African American, NA",5-9,13,0,NA,NA,NA
+2024,"Black or African American, NA",10-14,35,41,NA,NA,NA
+2024,"Black or African American, NA",15-19,231,565,NA,NA,NA
+2024,"Black or African American, NA",20-24,278,483,NA,NA,NA
+2024,"Black or African American, NA",25-29,233,392,NA,NA,NA
+2024,"Black or African American, NA",30-34,226,326,NA,NA,NA
+2024,"Black or African American, NA",35-39,189,194,NA,NA,NA
+2024,"Black or African American, NA",40-44,130,163,NA,NA,NA
+2024,"Black or African American, NA",45-49,103,101,NA,NA,NA
+2024,"Black or African American, NA",50-54,96,67,NA,NA,NA
+2024,"Black or African American, NA",55-59,54,58,NA,NA,NA
+2024,"Black or African American, NA",60-64,40,40,NA,NA,NA
+2024,"Black or African American, NA",65-69,26,15,NA,NA,NA
+2024,"Black or African American, NA",70-74,12,11,NA,NA,NA
+2024,"Black or African American, NA",75-79,9,3,NA,NA,NA
+2024,"Black or African American, NA",80+,7,5,NA,NA,NA
+2024,"Black or African American, NA",Unknown,28,207,NA,NA,NA
+2024,"Black or African American, Not Hispanic/Latino",0-4,143,2,2983383,4.793216291706429,0.0670379900937962
+2024,"Black or African American, Not Hispanic/Latino",5-9,41,3,3249333,1.2617974211938265,0.09232664057515803
+2024,"Black or African American, Not Hispanic/Latino",10-14,96,80,3406762,2.8179250561089972,2.348270880090831
+2024,"Black or African American, Not Hispanic/Latino",15-19,879,1269,3501762,25.1016488270762,36.23889915990864
+2024,"Black or African American, Not Hispanic/Latino",20-24,1013,1198,3332830,30.394589583027038,35.9454277595917
+2024,"Black or African American, Not Hispanic/Latino",25-29,852,796,3270271,26.052886748529403,24.34049043641949
+2024,"Black or African American, Not Hispanic/Latino",30-34,851,724,3613101,23.55317495968145,20.038188802361187
+2024,"Black or African American, Not Hispanic/Latino",35-39,697,478,3170411,21.984531343097157,15.076909586801207
+2024,"Black or African American, Not Hispanic/Latino",40-44,509,358,3094689,16.447533177000984,11.56820604590639
+2024,"Black or African American, Not Hispanic/Latino",45-49,388,222,2664780,14.560301413249876,8.330894107581113
+2024,"Black or African American, Not Hispanic/Latino",50-54,251,160,2604001,9.639013195463443,6.144390881570322
+2024,"Black or African American, Not Hispanic/Latino",55-59,199,102,2413454,8.245444081387092,4.226308021615494
+2024,"Black or African American, Not Hispanic/Latino",60-64,144,84,2592541,5.5543962467710255,3.240064477283098
+2024,"Black or African American, Not Hispanic/Latino",65-69,95,46,2173778,4.370271481264417,2.1161314540859277
+2024,"Black or African American, Not Hispanic/Latino",70-74,38,21,1683373,2.2573725490429037,1.2474953560500257
+2024,"Black or African American, Not Hispanic/Latino",75-79,33,7,1068760,3.0876904075751335,0.6549646319098769
+2024,"Black or African American, Not Hispanic/Latino",80+,28,4,1159933,2.4139325288615807,0.34484750412308296
+2024,"Black or African American, Not Hispanic/Latino",Unknown,41,234,NA,NA,NA
+2024,"NA, Hispanic/Latino",0-4,3,0,1456514,0.2059712436681007,0
+2024,"NA, Hispanic/Latino",5-9,3,0,1586797,0.18906010031528922,0
+2024,"NA, Hispanic/Latino",10-14,2,0,1859082,0.10757997764488066,0
+2024,"NA, Hispanic/Latino",15-19,14,12,1963274,0.7130945553193287,0.6112239045594247
+2024,"NA, Hispanic/Latino",20-24,10,14,1924423,0.5196362753926761,0.7274907855497466
+2024,"NA, Hispanic/Latino",25-29,15,8,1850682,0.8105120166511589,0.4322730755472848
+2024,"NA, Hispanic/Latino",30-34,10,19,1931113,0.5178360872719514,0.9838885658167077
+2024,"NA, Hispanic/Latino",35-39,9,8,1832665,0.4910881148491405,0.43652276875479157
+2024,"NA, Hispanic/Latino",40-44,11,5,1760886,0.6246855276264336,0.2839479671029243
+2024,"NA, Hispanic/Latino",45-49,5,4,1618831,0.30886485371233935,0.24709188296987147
+2024,"NA, Hispanic/Latino",50-54,3,1,1448177,0.20715699807413043,0.06905233269137681
+2024,"NA, Hispanic/Latino",55-59,2,3,1213248,0.16484675845334176,0.24727013768001269
+2024,"NA, Hispanic/Latino",60-64,2,0,1009360,0.19814535943568204,0
+2024,"NA, Hispanic/Latino",65-69,1,1,748697,0.13356538092178813,0.13356538092178813
+2024,"NA, Hispanic/Latino",70-74,1,0,522865,0.19125395656622649,0
+2024,"NA, Hispanic/Latino",75-79,1,0,325665,0.30706400749236173,0
+2024,"NA, Hispanic/Latino",80+,1,0,361760,0.27642636001769133,0
+2024,"NA, Hispanic/Latino",Unknown,2,10,NA,NA,NA
+2024,"NA, NA",0-4,13,1,NA,NA,NA
+2024,"NA, NA",5-9,2,0,NA,NA,NA
+2024,"NA, NA",10-14,2,2,NA,NA,NA
+2024,"NA, NA",15-19,30,71,NA,NA,NA
+2024,"NA, NA",20-24,24,56,NA,NA,NA
+2024,"NA, NA",25-29,37,61,NA,NA,NA
+2024,"NA, NA",30-34,26,51,NA,NA,NA
+2024,"NA, NA",35-39,26,40,NA,NA,NA
+2024,"NA, NA",40-44,25,31,NA,NA,NA
+2024,"NA, NA",45-49,11,17,NA,NA,NA
+2024,"NA, NA",50-54,17,45,NA,NA,NA
+2024,"NA, NA",55-59,16,31,NA,NA,NA
+2024,"NA, NA",60-64,18,6,NA,NA,NA
+2024,"NA, NA",65-69,10,1,NA,NA,NA
+2024,"NA, NA",70-74,5,0,NA,NA,NA
+2024,"NA, NA",75-79,3,1,NA,NA,NA
+2024,"NA, NA",80+,9,8,NA,NA,NA
+2024,"NA, NA",Unknown,84,3739,NA,NA,NA
+2024,"NA, Not Hispanic/Latino",0-4,5,0,155029,3.2252030265305205,0
+2024,"NA, Not Hispanic/Latino",5-9,0,0,156221,0,0
+2024,"NA, Not Hispanic/Latino",10-14,0,2,152129,0,1.314673730846847
+2024,"NA, Not Hispanic/Latino",15-19,6,8,134954,4.445959363931413,5.9279458185752185
+2024,"NA, Not Hispanic/Latino",20-24,5,16,116115,4.3060758730568836,13.779442793782028
+2024,"NA, Not Hispanic/Latino",25-29,11,7,115230,9.546125141022303,6.074806907923284
+2024,"NA, Not Hispanic/Latino",30-34,2,9,129428,1.5452606854776403,6.95367308464938
+2024,"NA, Not Hispanic/Latino",35-39,7,5,126799,5.520548269308118,3.9432487637915123
+2024,"NA, Not Hispanic/Latino",40-44,1,4,135546,0.7377569238487303,2.951027695394921
+2024,"NA, Not Hispanic/Latino",45-49,1,5,122185,0.8184310676433277,4.092155338216639
+2024,"NA, Not Hispanic/Latino",50-54,1,2,100924,0.9908445959335738,1.9816891918671475
+2024,"NA, Not Hispanic/Latino",55-59,2,4,86268,2.3183567487364956,4.636713497472991
+2024,"NA, Not Hispanic/Latino",60-64,2,1,99256,2.0149915370355447,1.0074957685177723
+2024,"NA, Not Hispanic/Latino",65-69,4,0,75734,5.2816436475031026,0
+2024,"NA, Not Hispanic/Latino",70-74,1,0,50677,1.9732817649032106,0
+2024,"NA, Not Hispanic/Latino",75-79,1,0,31030,3.222687721559781,0
+2024,"NA, Not Hispanic/Latino",80+,1,1,30309,3.299350028044475,3.299350028044475
+2024,"NA, Not Hispanic/Latino",Unknown,6,28,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",0-4,0,0,17715,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",5-9,0,0,17174,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",10-14,0,0,16741,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",15-19,0,0,19224,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",20-24,0,0,13873,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",25-29,2,2,13355,14.975664545114189,14.975664545114189
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",30-34,1,1,15011,6.661781360335754,6.661781360335754
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",35-39,1,1,14255,7.01508242721852,7.01508242721852
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",40-44,0,1,7605,0,13.149243918474687
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",45-49,0,0,8183,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",50-54,0,0,5748,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",55-59,0,0,4919,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",60-64,0,0,3755,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",65-69,0,0,2775,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",70-74,0,0,2115,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",75-79,0,0,1687,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Hispanic/Latino",80+,0,0,1956,0,0
+2024,"Native Hawaiian or Other Pacific Islander, NA",15-19,1,5,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",20-24,4,0,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",25-29,0,2,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",30-34,0,5,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",40-44,1,0,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",45-49,1,0,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",60-64,2,0,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, NA",Unknown,0,1,NA,NA,NA
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",0-4,4,0,59533,6.718962592175768,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",5-9,0,0,61212,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",10-14,0,1,66349,0,1.5071817209000888
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",15-19,2,5,62798,3.1848148030192043,7.962037007548011
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",20-24,6,5,57584,10.419560989163656,8.682967490969714
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",25-29,6,2,66678,8.998470260055791,2.999490086685263
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",30-34,2,2,71534,2.795873291022451,2.795873291022451
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",35-39,0,6,67161,0,8.933756197793361
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",40-44,3,1,61212,4.900999803960008,1.6336666013200025
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",45-49,3,5,48855,6.140620202640466,10.234367004400777
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",50-54,0,0,46165,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",55-59,1,1,37330,2.678810608090008,2.678810608090008
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",60-64,0,0,41881,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",65-69,0,0,34946,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",70-74,0,0,26247,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",75-79,0,0,17820,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",80+,0,0,14483,0,0
+2024,"Native Hawaiian or Other Pacific Islander, Not Hispanic/Latino",Unknown,0,1,NA,NA,NA
+2024,"White, Hispanic/Latino",0-4,67,0,2809162,2.385052909016995,0
+2024,"White, Hispanic/Latino",5-9,19,0,2868114,0.6624562343058887,0
+2024,"White, Hispanic/Latino",10-14,52,42,3072676,1.692335931285954,1.3668867137309628
+2024,"White, Hispanic/Latino",15-19,322,510,3215979,10.012503191096709,15.858312507637644
+2024,"White, Hispanic/Latino",20-24,372,438,2999641,12.401484044257296,14.60174734243198
+2024,"White, Hispanic/Latino",25-29,308,362,2782457,11.069353452721822,13.010084252874348
+2024,"White, Hispanic/Latino",30-34,301,294,2781993,10.819581501463158,10.567963327010528
+2024,"White, Hispanic/Latino",35-39,274,218,2631385,10.412767420958923,8.284610575799435
+2024,"White, Hispanic/Latino",40-44,213,161,2535513,8.400666847300723,6.349799823546556
+2024,"White, Hispanic/Latino",45-49,164,85,2257694,7.264049069537324,3.7649034811626376
+2024,"White, Hispanic/Latino",50-54,105,62,2076260,5.057170103936886,2.986138537562733
+2024,"White, Hispanic/Latino",55-59,72,30,1810097,3.9776873836043043,1.65736974316846
+2024,"White, Hispanic/Latino",60-64,46,16,1598752,2.8772442505154023,1.0007806088749225
+2024,"White, Hispanic/Latino",65-69,39,7,1229583,3.1718070272604613,0.5692986972005957
+2024,"White, Hispanic/Latino",70-74,21,4,919890,2.2828816488928023,0.43483459978910516
+2024,"White, Hispanic/Latino",75-79,12,3,641154,1.8716252257647927,0.4679063064411982
+2024,"White, Hispanic/Latino",80+,16,3,742199,2.1557560708111976,0.4042042632770996
+2024,"White, Hispanic/Latino",Unknown,16,62,NA,NA,NA
+2024,"White, NA",0-4,57,0,NA,NA,NA
+2024,"White, NA",5-9,20,1,NA,NA,NA
+2024,"White, NA",10-14,31,16,NA,NA,NA
+2024,"White, NA",15-19,120,212,NA,NA,NA
+2024,"White, NA",20-24,112,263,NA,NA,NA
+2024,"White, NA",25-29,141,220,NA,NA,NA
+2024,"White, NA",30-34,135,245,NA,NA,NA
+2024,"White, NA",35-39,161,252,NA,NA,NA
+2024,"White, NA",40-44,165,196,NA,NA,NA
+2024,"White, NA",45-49,124,142,NA,NA,NA
+2024,"White, NA",50-54,97,112,NA,NA,NA
+2024,"White, NA",55-59,91,77,NA,NA,NA
+2024,"White, NA",60-64,71,57,NA,NA,NA
+2024,"White, NA",65-69,55,29,NA,NA,NA
+2024,"White, NA",70-74,50,29,NA,NA,NA
+2024,"White, NA",75-79,43,12,NA,NA,NA
+2024,"White, NA",80+,57,22,NA,NA,NA
+2024,"White, NA",Unknown,22,33,NA,NA,NA
+2024,"White, Not Hispanic/Latino",0-4,97,0,8396587,1.155231286235705,0
+2024,"White, Not Hispanic/Latino",5-9,34,2,9357892,0.3633296900626765,0.021372334709569205
+2024,"White, Not Hispanic/Latino",10-14,42,22,10192605,0.4120634518849695,0.21584276051117451
+2024,"White, Not Hispanic/Latino",15-19,193,233,10894190,1.7715865062019296,2.138754694015801
+2024,"White, Not Hispanic/Latino",20-24,245,297,11301815,2.16779340309499,2.627896492731477
+2024,"White, Not Hispanic/Latino",25-29,241,313,11479026,2.0994812626088657,2.7267121792389006
+2024,"White, Not Hispanic/Latino",30-34,316,355,12373244,2.5538977490462487,2.8690939902260073
+2024,"White, Not Hispanic/Latino",35-39,351,361,12568367,2.792725578430356,2.8722904097246684
+2024,"White, Not Hispanic/Latino",40-44,347,266,12407985,2.796586230560401,2.143780799219212
+2024,"White, Not Hispanic/Latino",45-49,260,182,11286612,2.3036142289643693,1.6125299602750587
+2024,"White, Not Hispanic/Latino",50-54,283,148,11978683,2.3625301713051425,1.2355281461242442
+2024,"White, Not Hispanic/Latino",55-59,253,121,12518456,2.0210160102811403,0.9665728744822845
+2024,"White, Not Hispanic/Latino",60-64,237,103,14599182,1.6233786249119984,0.7055189804469867
+2024,"White, Not Hispanic/Latino",65-69,174,72,13571994,1.2820518488292878,0.5305042133086708
+2024,"White, Not Hispanic/Latino",70-74,140,44,11863469,1.180093276258403,0.37088645825264094
+2024,"White, Not Hispanic/Latino",75-79,126,39,9019280,1.39700729991751,0.4324070214030389
+2024,"White, Not Hispanic/Latino",80+,123,37,10456823,1.176265487136963,0.3538359595452653
+2024,"White, Not Hispanic/Latino",Unknown,27,13,NA,NA,NA
