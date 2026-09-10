@@ -205,13 +205,14 @@ ggplot(pooled_long, aes(x = age_group_5yr, y = rate, color = role, group = role)
     x = NULL,
     y = "Rate per 100,000",
     color = NULL,
-    caption = "Sources: FBI, National Incident-Based Reporting System (NIBRS) Extract Files, 2021–2024, via ICPSR; and US Census Bureau, American Community Survey, 2021–2024, via IPUMS USA."
+    caption = "Sources: NIBRS via ICPSR; ACS via IPUMS USA."
   ) +
   theme_minimal() +
   theme(
-    axis.text.x = element_text(angle = 45, hjust = 1, size = 9),
-    plot.title = element_text(size = 16, margin = margin(b = 4)),
-    plot.subtitle = element_text(size = 12, color = "gray30", margin = margin(b = 10)),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 12),
+    axis.text.y = element_text(size = 16),
+    plot.title = element_text(size = 20, margin = margin(b = 4)),
+    plot.subtitle = element_text(size = 16, color = "gray30", margin = margin(b = 10)),
     strip.text = element_text(size = 10, face = "bold"),
     legend.position = "top",
     legend.text = element_text(size = 11),

@@ -6,6 +6,7 @@
 - [2023: ICPSR_39270](https://www.icpsr.umich.edu/web/NACJD/studies/39270)
 - [2024: ICPSR_39868](https://www.icpsr.umich.edu/web/ICPSR/studies/39868/versions/V1)
 
+Homicides classified by UCR offense codes 91 (murder/nonnegligent manslaughter) and 92 (negligent manslaughter), excluding 93 (justifiable homicide)
 
 ### ACS population estimates
 > aggregates by race, ethnicity, age, sex
