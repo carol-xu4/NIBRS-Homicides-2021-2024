@@ -356,3 +356,77 @@ list(
   victims_plus_pop_free   = fixef(m_nb2)$cond["log(n_victims)"],
   victims_plus_pop_offset = fixef(m_nb3)$cond["log(n_victims)"]
 )
+
+## ---- Plain NB regression: race + year + state + age + sex, -------------
+## ---- ACS population as the exposure -------------------------------------
+# Starting over, simple version: no victims term, no random effects/partial
+# pooling -- just a standard negative binomial regression with race, year,
+# age, state, and sex as ordinary fixed effects (same reference categories
+# as the binomial logit model above), and ACS population as the exposure.
+#
+# "Weight by ACS population" here means population enters as
+# offset(log(weighted)) -- the standard way a Poisson/NB count model
+# incorporates a population denominator (same idea as the binomial model
+# using population as trials, just on the count/log-link scale instead of
+# the proportion/logit scale). It is NOT a `weights =` argument (that
+# means something different -- prior weights on the likelihood, e.g. for
+# survey weighting -- not a population-at-risk exposure).
+m_nb_simple <- MASS::glm.nb(
+  n_offenders ~ race_ethnicity + year + age_group_5yr + state_fips + sex + offset(log(weighted)),
+  data = model_data
+)
+
+summary(m_nb_simple)
+
+# incidence rate ratios (IRR) with 95% CI -- exp(coef) here means
+# "multiplicative change in expected OFFENDER COUNT," not an odds ratio
+# (this model has a log link on a count outcome, not a logit link on a
+# proportion). Using confint.default (Wald-based) instead of profile
+# CIs -- profiling this many parameters took a long time for the earlier
+# binomial model; swap in confint() for profile-likelihood CIs if you want
+# the more accurate (but slower) version.
+exp(cbind(IRR = coef(m_nb_simple), confint.default(m_nb_simple)))
+
+# dispersion: MASS::glm.nb estimates theta directly as part of fitting
+# (unlike glm(family=poisson), which would need a separate check). Small
+# theta = a lot of overdispersion beyond what Poisson would allow.
+m_nb_simple$theta
+m_nb_simple$SE.theta
+
+# AIC, for comparing against the other NB variants above if useful
+AIC(m_nb_simple)
+
+## ---- Plain NB regression: victims + race + year + state + age + sex, ---
+## ---- ACS population as a CONTROL (not an offset) ------------------------
+# Same simple, no-random-effects style as m_nb_simple, but two changes:
+#   1. log(n_victims) is added back in as an ordinary fixed effect.
+#   2. Population enters as log(weighted), a freely estimated control
+#      variable -- NOT offset(log(weighted)). That means the model
+#      estimates how much population matters on its own, instead of
+#      assuming it scales the offender count exactly 1:1. This directly
+#      answers the earlier question of whether victims still predict
+#      offenders once population size is accounted for.
+#
+# log(n_victims) is undefined at 0, so this reuses nb_data (already
+# filtered to n_victims > 0 earlier in this script) instead of model_data.
+m_nb_simple2 <- MASS::glm.nb(
+  n_offenders ~ log(n_victims) + log(weighted) + race_ethnicity + year + age_group_5yr + state_fips + sex,
+  data = nb_data
+)
+
+summary(m_nb_simple2)
+
+# incidence rate ratios (IRR) with 95% CI
+exp(cbind(IRR = coef(m_nb_simple2), confint.default(m_nb_simple2)))
+
+# log(n_victims) and log(weighted) are likely correlated (more population
+# tends to mean more victims) -- check before trusting either coefficient
+# individually. High correlation (roughly > .8-.9) means treat both
+# coefficients with some caution even if the overall model fits fine.
+cor(log(nb_data$n_victims), log(nb_data$weighted))
+
+# dispersion
+m_nb_simple2$theta
+m_nb_simple2$SE.theta
+
+AIC(m_nb_simple2)
