@@ -6,13 +6,14 @@ pacman::p_load(tidyverse, ggthemes, readxl, data.table, gdata, ipumsr, icpsrdata
 setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/NIBRS Homicides 2021-2024")
 
 # read in ACS 2021-2024
-ddi_acs = read_ipums_ddi("data/input/usa_00030.xml")
+ddi_acs = read_ipums_ddi("data/input/usa_00031.xml")
 acs = read_ipums_micro(ddi_acs)
 
 acs = acs %>% rename_with(tolower) %>%
   select(year, perwt, sex, age, race, hispan,
-       racamind, racasian, racblk, racpacis, racwht) %>%
-  filter(year >= 2021)
+       racamind, racasian, racblk, racpacis, racwht, statefip) %>%
+  filter(year >= 2021) %>%
+  mutate(statefip = as.integer(statefip))
 
 # ACS population estimates, by original race, age, sex, ethnicity variables
 age_levels_5yr = c(paste0(seq(0, 75, by = 5), "-", seq(4, 79, by = 5)), "80+", "Unknown")
@@ -61,7 +62,7 @@ acs = acs %>%
 
 ## Group: n and weighted population, NIBRS-comparable categories -------------
 acs_table_nibrs = acs %>%
-  group_by(race_ethnicity_nibrs, age_group_5yr, sex_nibrs) %>%
+  group_by(race_ethnicity_nibrs, age_group_5yr, sex_nibrs, statefip) %>%
   summarise(
     n = n(),
     weighted = sum(perwt, na.rm = TRUE),

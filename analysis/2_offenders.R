@@ -7,7 +7,7 @@ setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/NIBRS Homicides 2021-2
 
 # stacked homicide offenders data
 offenders = readRDS("data/output/offenders_homicide_2021_2024.rds")
-
+offenders %>% as_tibble() %>% print(n = 10)
 nrow(offenders)
 
 names(offenders)
@@ -34,4 +34,3 @@ offenders_table = offenders %>%
     year = as.numeric(year)
   ) %>%
   count(year, race_ethnicity, age_group_5yr, name = "n_offenders")
-
