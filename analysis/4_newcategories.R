@@ -1,3 +1,13 @@
+## Preliminaries -----------------------------------------------------------
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(tidyverse, ggthemes, readxl, data.table, gdata, ipumsr, ggpubr)
+
+# Set working directory
+setwd("C:/Users/CarolXu/OneDrive - Cato Institute/Desktop/NIBRS Homicides 2021-2024")
+
+offenders = readRDS("data/output/offenders_homicide_2021_2024.rds")
+victims = readRDS("data/output/victims_homicide_2021_2024.rds") 
+
 # defaulting race known hispanic NA to [race] nonhispanic
 # also making hispanic its own race category, all hispanic + any NIBRS race or race NA
 
@@ -59,6 +69,8 @@ offenders_table <- offenders %>%
   count(year, race_ethnicity, age_group_5yr, name = "n_offenders")
 
 # ---- ACS ----
+acs = readRDS("data/output/acs.rds")
+
 acs <- acs %>%
   mutate(
     sex_nibrs = case_when(sex == 1 ~ "Male", sex == 2 ~ "Female", TRUE ~ NA_character_),
@@ -142,6 +154,8 @@ race_eth_by_year = bind_rows(
   mutate(year = as.numeric(year))
 
 race_eth_by_year %>% as_tibble() %>% print(n = Inf)
+
+colors_role = c("Offenders" = "#3043B4", "Victims" = "#C97703")
 
 ggplot(race_eth_by_year, aes(x = year, y = n, color = role, group = role)) +
   geom_line(linewidth = 1.5) +
@@ -244,3 +258,229 @@ ggplot(pooled_long, aes(x = age_group_5yr, y = rate, color = role, group = role)
     plot.caption = element_text(size = 8, hjust = 0, color = "gray40", margin = margin(t = 10)))
 
 ggsave("results/rates_by_age_race_ethnicity_pooled_v2.png", width = 22, height = 16)
+
+# victimization rates vs offending rates 
+scatter_data = combined_table %>%
+  filter(
+    !is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k),
+    !age_group_5yr %in% c("0-4", "5-9", "10-14", "Unknown"))
+
+library(ggpubr)
+
+ggplot(scatter_data, aes(x = victim_rate_per_100k, y = offender_rate_per_100k, color = factor(year))) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "gray60") +
+  geom_point(alpha = 0.7, size = 2.5) +
+  geom_smooth(aes(group = 1), method = "lm", se = TRUE, color = "black", linewidth = 1) +
+  stat_cor(aes(group = 1), color = "black", label.x.npc = "left", label.y.npc = "top",
+           method = "pearson", r.accuracy = 0.01) +
+  scale_color_viridis_d(option = "D", name = "Year") +
+  coord_cartesian(xlim = c(0, 10), ylim = c(0, 10)) +
+  labs(
+    title = "Offender Rate vs. Victimization Rate (Zoomed)",
+    subtitle = "NIBRS 2021-2024 / ACS 2021-2024; rates per 100,000 population by race x ethnicity x \nage x year; age 15+",
+    x = "Victim Rate per 100,000",
+    y = "Offender Rate per 100,000",
+    caption = "Source: NIBRS 2021-2024 via ICPSR; ACS 2021-2024 via IPUMS"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 16, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "top",
+    legend.justification = "left",
+    legend.title = element_text(size = 13),
+    legend.text = element_text(size = 13),
+    panel.grid.minor = element_blank(),
+    axis.title = element_text(size = 16, color = "black"),
+    axis.text = element_text(size = 12, color = "gray40"),
+    plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA)
+  )
+
+ggsave("results/offender_vs_victim_rate_scatter_pooled_years2.png", width = 14, height = 12)
+
+fit = lm(offender_rate_per_100k ~ victim_rate_per_100k, data = scatter_data)
+summary(fit)$r.squared
+
+scatter_all_ages <- combined_table %>%
+  filter(
+    !is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k),
+    age_group_5yr != "Unknown"
+  )
+
+scatter_15plus <- scatter_all_ages %>%
+  filter(!age_group_5yr %in% c("0-4", "5-9", "10-14"))
+
+fit_all <- lm(offender_rate_per_100k ~ victim_rate_per_100k, data = scatter_all_ages)
+fit_15plus <- lm(offender_rate_per_100k ~ victim_rate_per_100k, data = scatter_15plus)
+
+cat("All ages, R²:", round(summary(fit_all)$r.squared, 6), "\n")
+cat("Ages 15+,  R²:", round(summary(fit_15plus)$r.squared, 6), "\n")
+
+# lm no age groups
+race_year_table <- victims_table %>%
+  group_by(year, race_ethnicity) %>%
+  summarise(n_victims = sum(n_victims, na.rm = TRUE), .groups = "drop") %>%
+  full_join(
+    offenders_table %>%
+      group_by(year, race_ethnicity) %>%
+      summarise(n_offenders = sum(n_offenders, na.rm = TRUE), .groups = "drop"),
+    by = c("year", "race_ethnicity")
+  ) %>%
+  full_join(
+    acs_table_year %>%
+      group_by(year, race_ethnicity) %>%
+      summarise(weighted = sum(weighted, na.rm = TRUE), .groups = "drop"),
+    by = c("year", "race_ethnicity")
+  ) %>%
+  mutate(
+    n_victims = replace_na(n_victims, 0),
+    n_offenders = replace_na(n_offenders, 0),
+    victim_rate_per_100k = n_victims / weighted * 100000,
+    offender_rate_per_100k = n_offenders / weighted * 100000
+  ) %>%
+  filter(!is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k))
+
+fit_race_year <- lm(offender_rate_per_100k ~ victim_rate_per_100k, data = race_year_table)
+cat("Race/ethnicity x year (no age breakdown), R²:", round(summary(fit_race_year)$r.squared, 6), "\n")
+
+ggplot(race_year_table, aes(x = victim_rate_per_100k, y = offender_rate_per_100k, color = factor(year))) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "gray60") +
+  geom_point(alpha = 0.7, size = 2.5) +
+  geom_smooth(aes(group = 1), method = "lm", se = TRUE, color = "black", linewidth = 1) +
+  stat_cor(aes(group = 1), color = "black", label.x.npc = "left", label.y.npc = "top",
+           method = "pearson", r.accuracy = 0.01) +
+  scale_color_viridis_d(option = "D", name = "Year") +
+  coord_cartesian(xlim = c(0, 10), ylim = c(0, 10)) +
+  labs(
+    title = "Offender Rate vs. Victimization Rate (Zoomed)",
+    subtitle = "NIBRS 2021-2024 / ACS 2021-2024; rates per 100,000 population by race/ethnicity x year",
+    x = "Victim Rate per 100,000",
+    y = "Offender Rate per 100,000",
+    caption = "Source: NIBRS 2021-2024 via ICPSR; ACS 2021-2024 via IPUMS"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 16, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "top",
+    legend.justification = "left",
+    legend.title = element_text(size = 13),
+    legend.text = element_text(size = 13),
+    panel.grid.minor = element_blank(),
+    axis.title = element_text(size = 16, color = "black"),
+    axis.text = element_text(size = 12, color = "gray40"),
+    plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA)
+  )
+
+ggsave("results/offender_vs_victim_rate_scatter_race_ethnicity_year.png", width = 14, height = 12)
+
+# add in sex
+victims %>% count(V4019)
+offenders %>% count(V5008)
+
+victims_table_sex = victims %>%
+  mutate(
+    race = str_remove(as.character(V4020), "^\\(-?\\d+\\)\\s*"),
+    ethnicity = case_when(
+      str_detect(as.character(V4021), "^\\(0\\)") ~ "Not Hispanic/Latino",
+      str_detect(as.character(V4021), "^\\(1\\)") ~ "Hispanic/Latino",
+      TRUE ~ NA_character_
+    ),
+    race_ethnicity = case_when(
+      !is.na(race) & is.na(ethnicity) ~ paste0(race, ", Not Hispanic/Latino"),
+      TRUE ~ paste0(race, ", ", ethnicity)
+    ),
+    sex = case_when(
+      str_detect(as.character(V4019), "^\\(0\\)") ~ "Female",
+      str_detect(as.character(V4019), "^\\(1\\)") ~ "Male",
+      TRUE ~ NA_character_
+    ),
+    year = as.numeric(year)
+  ) %>%
+  count(year, race_ethnicity, sex, name = "n_victims")
+
+offenders_table_sex = offenders %>%
+  mutate(
+    race = str_remove(as.character(V5009), "^\\(-?\\d+\\)\\s*"),
+    ethnicity = case_when(
+      str_detect(as.character(V5011), "^\\(0\\)") ~ "Not Hispanic/Latino",
+      str_detect(as.character(V5011), "^\\(1\\)") ~ "Hispanic/Latino",
+      TRUE ~ NA_character_
+    ),
+    race_ethnicity = case_when(
+      !is.na(race) & is.na(ethnicity) ~ paste0(race, ", Not Hispanic/Latino"),
+      TRUE ~ paste0(race, ", ", ethnicity)
+    ),
+    sex = case_when(
+      str_detect(as.character(V5008), "^\\(0\\)") ~ "Female",
+      str_detect(as.character(V5008), "^\\(1\\)") ~ "Male",
+      TRUE ~ NA_character_
+    ),
+    year = as.numeric(year)
+  ) %>%
+  count(year, race_ethnicity, sex, name = "n_offenders")
+
+acs_table_year_sex = acs %>%
+  filter(!is.na(race_ethnicity_nibrs), !is.na(sex_nibrs)) %>%
+  group_by(year, race_ethnicity_nibrs, sex_nibrs) %>%
+  summarise(weighted = sum(perwt, na.rm = TRUE), .groups = "drop") %>%
+  rename(race_ethnicity = race_ethnicity_nibrs, sex = sex_nibrs) %>%
+  mutate(year = as.numeric(year))
+
+race_year_sex_table = victims_table_sex %>%
+  full_join(offenders_table_sex, by = c("year", "race_ethnicity", "sex")) %>%
+  full_join(acs_table_year_sex, by = c("year", "race_ethnicity", "sex")) %>%
+  mutate(
+    n_victims = replace_na(n_victims, 0),
+    n_offenders = replace_na(n_offenders, 0),
+    victim_rate_per_100k = n_victims / weighted * 100000,
+    offender_rate_per_100k = n_offenders / weighted * 100000
+  ) %>%
+  filter(!is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k), !is.na(sex))
+
+fit_race_year_sex = lm(offender_rate_per_100k ~ victim_rate_per_100k, data = race_year_sex_table)
+cat("Race/ethnicity x year x sex, R²:", round(summary(fit_race_year_sex)$r.squared, 6), "\n")
+
+ggplot(race_year_sex_table, aes(x = victim_rate_per_100k, y = offender_rate_per_100k, color = factor(year), shape = sex)) +
+  geom_abline(slope = 1, intercept = 0, linetype = "dashed", color = "gray60") +
+  geom_point(alpha = 0.7, size = 2.5) +
+  geom_smooth(aes(group = 1, shape = NULL), method = "lm", se = TRUE, color = "black", linewidth = 1) +
+  stat_cor(aes(group = 1, shape = NULL), color = "black", label.x.npc = "left", label.y.npc = "top",
+         method = "pearson", r.accuracy = 0.01) +
+  scale_color_viridis_d(option = "D", name = "Year") +
+  scale_shape_manual(values = c("Male" = 16, "Female" = 17), name = "Sex") +
+  labs(
+    title = "Offender Rate vs. Victimization Rate",
+    subtitle = "NIBRS 2021-2024 / ACS 2021-2024; rates per 100,000 population by race x ethnicity x year x sex ",
+    x = "Victim Rate per 100,000",
+    y = "Offender Rate per 100,000",
+    caption = "Source: NIBRS 2021-2024 via ICPSR; ACS 2021-2024 via IPUMS"
+  ) +
+  theme_minimal() +
+  theme(
+    plot.title = element_text(size = 30, face = "bold", hjust = 0, color = "black"),
+    plot.subtitle = element_text(size = 16, color = "gray40", hjust = 0, margin = margin(b = 12)),
+    legend.position = "top",
+    legend.justification = "left",
+    legend.title = element_text(size = 13),
+    legend.text = element_text(size = 13),
+    panel.grid.minor = element_blank(),
+    axis.title = element_text(size = 16, color = "black"),
+    axis.text = element_text(size = 12, color = "gray40"),
+    plot.caption = element_text(size = 12, color = "gray40", hjust = 0),
+    plot.caption.position = "plot",
+    plot.title.position = "plot",
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA)
+  )
+
+ggsave("results/offender_vs_victim_rate_scatter_race_ethnicity_year_sex.png", width = 14, height = 12)
+  
