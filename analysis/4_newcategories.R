@@ -989,10 +989,10 @@ diag_15_54 %>%
   head(20)
 
 # FE
-fit_15_54_FE <- lm(offender_rate_per_100k ~ victim_rate_per_100k + as.factor(race_ethnicity) + as.factor(age_group_5yr), data = scatter_15_54)
+fit_15_54 <- lm(offender_rate_per_100k ~ victim_rate_per_100k + as.factor(race_ethnicity) + as.factor(age_group_5yr), data = scatter_15_54)
 
-summary(fit_15_54_FE)
-anova(fit_15_54_FE)
+summary(fit_15_54)
+anova(fit_15_54)
 
 # recode NIBRS state codes
 recode_nibrs_state <- function(x) {
@@ -1090,3 +1090,41 @@ combined_table_full <- victims_table_full %>%
 
 write_csv(combined_table_full, "results/nibrs_acs_combined_race_ethnicity_age_sex_state.csv")
 
+
+# with all fixed effects
+scatter_full_15_54 = combined_table_full %>%
+  filter(
+    !is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k),
+    age_group_5yr %in% c("15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54"))
+
+fit_full_15_54_FE = lm( offender_rate_per_100k ~ victim_rate_per_100k +
+    as.factor(race_ethnicity) + as.factor(age_group_5yr) + as.factor(sex) + as.factor(state) + as.factor(year), data = scatter_full_15_54)
+
+summary(fit_full_15_54_FE)
+anova(fit_full_15_54_FE)
+
+combined_table_no_state = combined_table_full %>%
+  group_by(year, race_ethnicity, age_group_5yr, sex) %>%
+  summarise(
+    n_victims = sum(n_victims, na.rm = TRUE),
+    n_offenders = sum(n_offenders, na.rm = TRUE),
+    weighted = sum(weighted, na.rm = TRUE),
+    .groups = "drop"
+  ) %>%
+  mutate(
+    victim_rate_per_100k = n_victims / weighted * 100000,
+    offender_rate_per_100k = n_offenders / weighted * 100000
+  ) %>%
+  filter(is.finite(victim_rate_per_100k), is.finite(offender_rate_per_100k))
+
+scatter_no_state_15_54 = combined_table_no_state %>%
+  filter(age_group_5yr %in% c("15-19", "20-24", "25-29", "30-34", "35-39", "40-44", "45-49", "50-54"))
+
+fit_full_15_54_no_state = lm(
+  offender_rate_per_100k ~ victim_rate_per_100k +
+    as.factor(race_ethnicity) + as.factor(age_group_5yr) + as.factor(sex),
+  data = scatter_no_state_15_54
+)
+
+summary(fit_full_15_54_no_state)
+anova(fit_full_15_54_no_state)
