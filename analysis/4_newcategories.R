@@ -446,6 +446,8 @@ race_year_sex_table = victims_table_sex %>%
   ) %>%
   filter(!is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k), !is.na(sex))
 
+write_csv(race_year_sex_table, "results/nibrs_acs_combined_race_sex.csv")
+
 fit_race_year_sex = lm(offender_rate_per_100k ~ victim_rate_per_100k, data = race_year_sex_table)
 cat("Race/ethnicity x year x sex, R²:", round(summary(fit_race_year_sex)$r.squared, 6), "\n")
 
