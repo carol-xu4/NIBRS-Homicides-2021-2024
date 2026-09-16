@@ -59,12 +59,17 @@ table(offenders_ca$year)
 ca_victims_table = victims_ca %>%
   count(year, race_ethnicity, name = "n_victims")
 
-write_csv(ca_victims_table, "results/california_victims.csv")
-
 ca_offenders_table = offenders_ca %>%
   count(year, race_ethnicity, name = "n_offenders")
 
-write_csv(ca_offenders_table, "results/california_offenders.csv")
+ca_counts_table = ca_victims_table %>%
+    full_join(ca_offenders_table, by = c("year", "race_ethnicity")) %>%
+    mutate(
+        n_victims = replace_na(n_victims, 0),
+        n_offenders = replace_na(n_offenders, 0)) %>%
+    arrange(year, race_ethnicity)
+
+write_csv(ca_counts_table, "results/california_victims_offenders.csv")
 
 # ACS California population, race/ethnicity + state derived fresh (acs.rds is the raw extract)
 acs = readRDS("data/output/acs.rds")
