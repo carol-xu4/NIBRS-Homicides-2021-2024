@@ -123,6 +123,8 @@ ca_race_year_table = ca_victims_table %>%
   ) %>%
   filter(!is.na(victim_rate_per_100k), !is.na(offender_rate_per_100k))
 
+write_csv(ca_race_year_table, "results/california_victims_offenders.csv")
+
 fit_ca_race_year = lm(offender_rate_per_100k ~ victim_rate_per_100k, data = ca_race_year_table)
 cat("California, race/ethnicity x year, R²:", round(summary(fit_ca_race_year)$r.squared, 6), "\n")
 
